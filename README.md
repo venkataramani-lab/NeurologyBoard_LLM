@@ -1,7 +1,7 @@
 # NeurologyBoard-LLM
 # Neurology Board Questions Performance Analysis: GPT-3.5 vs GPT-4
 
-This repository contains the [a code]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/venkataramani-lab/NeurologyBoard_LLM/blob/main/NeurologyBoard_LLM/analysis.py)) and [metadata](https://github.com/venkataramani-lab/NeurologyBoard_LLM/blob/main/NeurologyBoard_LLM/question_metadata.csv) related to our project where we aimed to evaluate the performance of the latest large language models, GPT-3.5 and GPT-4, on Neurology board questions. 
+This repository contains the [code](https://github.com/venkataramani-lab/NeurologyBoard_LLM/blob/main/NeurologyBoard_LLM/analysis.py) and [metadata](https://github.com/venkataramani-lab/NeurologyBoard_LLM/blob/main/NeurologyBoard_LLM/question_metadata.csv) related to our project where we aimed to evaluate the performance of the latest large language models, GPT-3.5 and GPT-4, on Neurology board questions. 
 
 ## Overview
 
