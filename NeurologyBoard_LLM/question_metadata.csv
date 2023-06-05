@@ -1,0 +1,3913 @@
+"","Category","Diff_Level","correct_gpt35","correct_gpt4","gpt.3.5.turbo_calc_time_s","gpt.3.5.turbo_calc_time_micro_s","question_length","X0","X1"
+"1","Basic Neuroscience","Intermediate
+(2nd quartile)",FALSE,TRUE,7,421972,79,-64.17635,46.797955
+"2","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,39,883382,81,-52.14525,52.648197
+"3","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,30,414662,232,13.717517,-7.6013727
+"4","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,8,4999,645,2.8942354,30.265478
+"5","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,8,261843,678,-6.3997808,33.10285
+"6","Epilepsy, Seizures","Difficult
+(4th quartile)",TRUE,FALSE,13,65690,1421,5.5819116,54.66206
+"7","Epilepsy, Seizures","Difficult
+(4th quartile)",TRUE,TRUE,19,204368,598,2.5649056,61.400486
+"8","Epilepsy, Seizures","Easy
+(1st quartile)",FALSE,FALSE,20,639583,70,-6.8418727,51.929123
+"9","Epilepsy, Seizures","Difficult
+(4th quartile)",FALSE,FALSE,18,656682,913,10.6627445,42.07333
+"10","Epilepsy, Seizures","Advanced
+(3rd quartile)",FALSE,FALSE,7,24270,441,3.1422453,51.96627
+"11","Ethics","Intermediate
+(2nd quartile)",FALSE,FALSE,8,929135,299,-11.94924,-51.273884
+"12","Ethics","Intermediate
+(2nd quartile)",TRUE,TRUE,11,159875,479,-28.365875,-21.722002
+"13","Ethics","Easy
+(1st quartile)",FALSE,TRUE,4,309614,255,-11.563905,-34.835697
+"14","Ethics","Advanced
+(3rd quartile)",FALSE,TRUE,9,939445,492,-10.819886,-50.186867
+"15","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,8,831968,645,2.8956776,30.264568
+"16","Ethics","Easy
+(1st quartile)",TRUE,TRUE,7,291391,710,62.01371,6.704956
+"17","Genetic","Intermediate
+(2nd quartile)",TRUE,TRUE,7,144127,57,-20.726988,11.537372
+"18","Genetic","Intermediate
+(2nd quartile)",TRUE,TRUE,20,348264,565,5.5854616,19.87754
+"19","Genetic","Difficult
+(4th quartile)",TRUE,FALSE,13,44320,91,-44.193775,35.783054
+"20","Genetic","Advanced
+(3rd quartile)",TRUE,TRUE,15,332861,504,7.920842,20.988678
+"21","Genetic","Intermediate
+(2nd quartile)",TRUE,TRUE,8,47488,519,45.601776,-7.572611
+"22","Genetic","Advanced
+(3rd quartile)",TRUE,TRUE,3,994073,60,-19.995474,37.727806
+"23","Genetic","Easy
+(1st quartile)",TRUE,TRUE,4,324937,280,-1.5878255,31.327042
+"24","Genetic","Advanced
+(3rd quartile)",TRUE,TRUE,7,266315,680,5.078001,39.83754
+"25","Genetic","Intermediate
+(2nd quartile)",TRUE,TRUE,14,581944,562,67.711334,18.39481
+"26","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,FALSE,8,639005,105,-50.67721,51.982178
+"27","Genetic","Difficult
+(4th quartile)",FALSE,FALSE,9,876289,739,2.632055,18.68179
+"28","Genetic","Advanced
+(3rd quartile)",TRUE,TRUE,6,730196,322,4.638961,24.175451
+"29","Genetic","Advanced
+(3rd quartile)",TRUE,TRUE,12,634872,543,68.84431,26.287518
+"30","Genetic","Difficult
+(4th quartile)",FALSE,TRUE,13,614201,77,-24.909754,10.716312
+"31","Genetic","Intermediate
+(2nd quartile)",TRUE,TRUE,8,689689,684,-33.870953,-18.34547
+"32","Genetic","Difficult
+(4th quartile)",FALSE,FALSE,11,623688,271,24.39663,36.289097
+"33","Genetic","Easy
+(1st quartile)",TRUE,TRUE,10,997014,42,-27.028395,12.879482
+"34","Genetic","Intermediate
+(2nd quartile)",FALSE,TRUE,9,285737,137,15.804951,44.504734
+"35","Genetic","Advanced
+(3rd quartile)",TRUE,TRUE,3,878987,69,-22.30112,16.91991
+"36","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,9,650002,74,-56.37657,59.3168
+"37","Genetic","Difficult
+(4th quartile)",TRUE,TRUE,5,876981,118,-46.226387,38.311577
+"38","Genetic","Easy
+(1st quartile)",TRUE,TRUE,8,429006,810,24.202099,-12.764867
+"39","Headache","Difficult
+(4th quartile)",FALSE,FALSE,9,138589,628,44.666615,-57.397476
+"40","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,9,987166,642,39.27687,-51.355682
+"41","Headache","Easy
+(1st quartile)",FALSE,TRUE,13,879626,1143,37.999355,-48.112453
+"42","Headache","Difficult
+(4th quartile)",FALSE,FALSE,5,408310,498,33.825813,-56.983456
+"43","Headache","Intermediate
+(2nd quartile)",FALSE,TRUE,8,18537,1053,48.449806,-57.78668
+"44","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,15,551830,515,40.50883,-51.31507
+"45","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,6,482457,80,-29.67496,42.779015
+"46","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,4,541410,387,38.097954,-65.98305
+"47","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,TRUE,8,539027,74,-56.52392,59.35929
+"48","Headache","Advanced
+(3rd quartile)",TRUE,TRUE,6,222267,106,4.7460413,-66.12259
+"49","Headache","Difficult
+(4th quartile)",FALSE,TRUE,8,336865,576,39.835354,-63.924812
+"50","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,7,980290,1094,48.265762,-11.099526
+"51","Headache","Difficult
+(4th quartile)",TRUE,TRUE,9,871015,581,43.8236,-62.92247
+"52","Headache","Advanced
+(3rd quartile)",FALSE,FALSE,6,185664,499,48.286568,-58.749226
+"53","Headache","Easy
+(1st quartile)",TRUE,TRUE,36,798416,332,46.35069,-61.830456
+"54","Headache","Advanced
+(3rd quartile)",FALSE,FALSE,11,494280,553,41.036633,-52.894737
+"55","Headache","Easy
+(1st quartile)",TRUE,TRUE,6,305569,420,-37.238018,-64.03628
+"56","Headache","Easy
+(1st quartile)",FALSE,TRUE,9,213533,336,33.621532,-49.977486
+"57","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,17,851969,1040,-33.82826,-45.04009
+"58","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,7,597098,382,40.4442,-66.56495
+"59","Headache","Advanced
+(3rd quartile)",TRUE,TRUE,10,644039,432,41.69778,-58.416897
+"60","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,4,81093,823,47.071304,-60.69562
+"61","Headache","Difficult
+(4th quartile)",FALSE,FALSE,7,577981,933,47.241596,-59.16557
+"62","Headache","Difficult
+(4th quartile)",FALSE,TRUE,6,393159,642,51.43482,-57.024143
+"63","Headache","Intermediate
+(2nd quartile)",FALSE,TRUE,8,185844,480,51.4495,-55.392593
+"64","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,8,202674,108,-47.084457,-57.648956
+"65","Headache","Easy
+(1st quartile)",FALSE,TRUE,8,24373,665,35.968174,-49.67831
+"66","Headache","Easy
+(1st quartile)",TRUE,TRUE,9,287808,630,38.677757,-50.13663
+"67","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,6,504005,422,-13.692877,-18.286043
+"68","Headache","Difficult
+(4th quartile)",TRUE,TRUE,8,955493,186,42.03729,-53.274456
+"69","Headache","Easy
+(1st quartile)",TRUE,TRUE,7,714496,515,35.12849,-51.336063
+"70","Headache","Easy
+(1st quartile)",TRUE,TRUE,11,217163,613,40.05855,-55.482586
+"71","Headache","Easy
+(1st quartile)",TRUE,TRUE,42,225362,745,46.379723,-52.893547
+"72","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,15,595934,126,15.083137,-68.78045
+"73","Headache","Difficult
+(4th quartile)",TRUE,TRUE,13,426794,838,46.82615,-9.326799
+"74","Headache","Advanced
+(3rd quartile)",TRUE,TRUE,5,924751,79,-47.007893,-55.646626
+"75","Headache","Easy
+(1st quartile)",TRUE,TRUE,10,7820,1410,45.220776,-9.455778
+"76","Headache","Easy
+(1st quartile)",FALSE,TRUE,11,89525,388,46.00731,-57.27671
+"77","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,8,860999,68,-60.032043,36.295555
+"78","Headache","Easy
+(1st quartile)",TRUE,TRUE,9,900541,640,45.405018,-58.752804
+"79","Headache","Easy
+(1st quartile)",TRUE,TRUE,39,520552,282,48.207474,-59.831047
+"80","Headache","Advanced
+(3rd quartile)",TRUE,TRUE,6,831600,509,17.532774,-68.02491
+"81","Headache","Difficult
+(4th quartile)",FALSE,FALSE,7,804076,294,41.7191,-64.08061
+"82","Headache","Advanced
+(3rd quartile)",FALSE,TRUE,7,589240,676,44.000896,-42.11056
+"83","Headache","Difficult
+(4th quartile)",TRUE,FALSE,7,390048,635,37.46925,-59.377945
+"84","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,11,380154,70,-29.595922,42.742004
+"85","Headache","Difficult
+(4th quartile)",FALSE,FALSE,6,511767,158,50.99978,-39.16758
+"86","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,5,718342,388,9.566079,-40.5353
+"87","Basic Neuroscience","Easy
+(1st quartile)",TRUE,FALSE,9,578017,100,-13.331371,22.794374
+"88","Headache","Easy
+(1st quartile)",TRUE,TRUE,47,357892,1343,45.776592,-9.036736
+"89","Headache","Difficult
+(4th quartile)",FALSE,TRUE,8,860237,839,36.893593,-51.59202
+"90","Headache","Advanced
+(3rd quartile)",TRUE,TRUE,4,511724,236,37.922558,-66.913445
+"91","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,9,216195,626,39.297054,-52.81777
+"92","Headache","Advanced
+(3rd quartile)",TRUE,TRUE,5,639820,641,39.57742,-62.01336
+"93","Headache","Difficult
+(4th quartile)",FALSE,TRUE,10,226477,328,41.565887,-70.50004
+"94","Headache","Easy
+(1st quartile)",TRUE,TRUE,6,621671,52,-37.311653,28.968096
+"95","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,7,931956,1186,45.10489,-48.910767
+"96","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,7,826870,984,40.928932,-57.44308
+"97","Headache","Advanced
+(3rd quartile)",TRUE,FALSE,9,771389,1008,41.225704,-56.574287
+"98","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,40,504002,87,-64.369934,51.007374
+"99","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,11,941063,598,32.364956,-44.908054
+"100","Headache","Advanced
+(3rd quartile)",TRUE,TRUE,10,366693,842,38.366875,-54.046284
+"101","Headache","Difficult
+(4th quartile)",FALSE,TRUE,6,916717,679,41.153816,-56.151634
+"102","Headache","Easy
+(1st quartile)",TRUE,TRUE,5,252328,866,38.489456,-62.89333
+"103","Headache","Intermediate
+(2nd quartile)",TRUE,TRUE,9,656255,230,37.150734,-64.77588
+"104","Imaging/Diagnostic Studies","Intermediate
+(2nd quartile)",TRUE,TRUE,11,331264,564,64.27739,11.936278
+"105","Imaging/Diagnostic Studies","Difficult
+(4th quartile)",TRUE,TRUE,11,762416,674,71.968666,16.376432
+"106","Imaging/Diagnostic Studies","Easy
+(1st quartile)",TRUE,TRUE,3,999135,72,-74.04558,4.718654
+"107","Imaging/Diagnostic Studies","Difficult
+(4th quartile)",FALSE,TRUE,4,848136,665,26.087101,-61.365715
+"108","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,9,528500,67,-61.186405,56.511917
+"109","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,8,115999,87,-64.36889,51.00864
+"110","Imaging/Diagnostic Studies","Easy
+(1st quartile)",TRUE,TRUE,8,35596,92,-36.38955,49.301514
+"111","Imaging/Diagnostic Studies","Difficult
+(4th quartile)",FALSE,TRUE,8,797068,70,-36.952904,33.490406
+"112","Imaging/Diagnostic Studies","Difficult
+(4th quartile)",FALSE,FALSE,5,901347,102,-25.815351,53.10149
+"113","Imaging/Diagnostic Studies","Easy
+(1st quartile)",TRUE,TRUE,6,671369,930,63.657024,13.938459
+"114","Imaging/Diagnostic Studies","Difficult
+(4th quartile)",FALSE,TRUE,8,459615,328,23.266247,-62.45161
+"115","Imaging/Diagnostic Studies","Difficult
+(4th quartile)",FALSE,TRUE,6,188917,665,26.08694,-61.365593
+"116","Movement Disorders","Intermediate
+(2nd quartile)",FALSE,TRUE,11,203187,592,-13.779031,1.5938585
+"117","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,9,97409,244,-7.1819167,4.899155
+"118","Movement Disorders","Intermediate
+(2nd quartile)",FALSE,TRUE,19,176698,376,1.2573448,8.695971
+"119","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,11,64578,62,-48.34884,36.437225
+"120","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,7,718002,59,-62.965607,50.529022
+"121","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,7,174446,397,-49.09032,-43.82225
+"122","Movement Disorders","Intermediate
+(2nd quartile)",FALSE,TRUE,8,299709,500,-10.464575,3.8021266
+"123","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,9,429110,671,-47.13444,-36.061615
+"124","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,9,60822,143,33.331326,-2.0073152
+"125","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,6,313156,551,2.7099261,-4.5245113
+"126","Movement Disorders","Difficult
+(4th quartile)",FALSE,TRUE,9,3036,422,-17.414644,1.5953565
+"127","Movement Disorders","Advanced
+(3rd quartile)",FALSE,FALSE,6,617896,259,3.011033,-5.064453
+"128","Movement Disorders","Difficult
+(4th quartile)",FALSE,TRUE,8,411234,582,70.69496,-17.309483
+"129","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,11,889610,646,7.2006407,15.8610935
+"130","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,37,469437,180,-65.64803,-7.050156
+"131","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,17,470004,1042,47.227627,-25.763355
+"132","Movement Disorders","Difficult
+(4th quartile)",TRUE,TRUE,9,522056,574,-0.55214834,2.799037
+"133","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,10,440112,1459,-2.9328542,1.5320256
+"134","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,12,38990,77,-53.09735,40.428745
+"135","Movement Disorders","Intermediate
+(2nd quartile)",FALSE,TRUE,7,636737,362,-11.783927,-0.075046234
+"136","Movement Disorders","Difficult
+(4th quartile)",FALSE,FALSE,11,765668,845,-1.7706317,3.8791354
+"137","Movement Disorders","Advanced
+(3rd quartile)",TRUE,FALSE,4,392919,363,70.28825,-21.764048
+"138","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,6,807789,357,-6.547227,-5.443314
+"139","Movement Disorders","Difficult
+(4th quartile)",FALSE,TRUE,9,826091,77,-48.04489,36.248844
+"140","Movement Disorders","Advanced
+(3rd quartile)",FALSE,FALSE,15,507826,62,-71.965744,-5.1744204
+"141","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,7,240366,304,-27.422077,-8.999913
+"142","Basic Neuroscience","Intermediate
+(2nd quartile)",FALSE,FALSE,16,947995,719,57.704227,13.086669
+"143","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,11,976273,500,12.675065,5.369528
+"144","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,8,155913,354,-3.534017,-5.668234
+"145","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,7,96965,1245,-2.5867455,-11.443961
+"146","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,12,866480,1240,-1.3370382,3.4454772
+"147","Movement Disorders","Difficult
+(4th quartile)",TRUE,FALSE,10,898750,216,23.727964,-41.53476
+"148","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,13,557853,472,-48.183838,-41.240654
+"149","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,8,633934,599,-51.21819,-41.02644
+"150","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,11,494011,76,-70.35734,-8.421459
+"151","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,6,94666,36,-19.79322,16.136196
+"152","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,10,809259,705,-11.996505,0.49702317
+"153","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,30,333000,348,53.86208,0.88872075
+"154","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,9,29767,272,-4.2035155,-32.276653
+"155","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,14,935415,597,-6.8786616,4.8944097
+"156","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,7,58227,76,-48.0772,34.195362
+"157","Movement Disorders","Difficult
+(4th quartile)",TRUE,TRUE,8,110228,79,-56.93297,-19.015116
+"158","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,12,227542,87,-49.42282,19.666323
+"159","Movement Disorders","Difficult
+(4th quartile)",FALSE,FALSE,12,726206,55,-46.513588,34.96347
+"160","Movement Disorders","Easy
+(1st quartile)",FALSE,TRUE,11,730047,606,-9.5516615,6.100773
+"161","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,10,40752,1007,3.0418706,7.927115
+"162","Movement Disorders","Easy
+(1st quartile)",FALSE,TRUE,8,877690,1329,75.83204,27.070383
+"163","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,10,582339,484,-12.708954,0.6865974
+"164","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,5,865003,133,72.97313,-2.5348089
+"165","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,8,262307,1555,-8.882939,3.416443
+"166","Movement Disorders","Difficult
+(4th quartile)",TRUE,TRUE,8,919149,481,52.91565,19.778694
+"167","Movement Disorders","Difficult
+(4th quartile)",TRUE,TRUE,7,911953,87,-67.549446,-3.31141
+"168","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,8,999499,370,3.7354517,57.511696
+"169","Movement Disorders","Difficult
+(4th quartile)",TRUE,TRUE,9,713592,87,-67.49659,-3.143746
+"170","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,6,610292,54,-66.43707,-18.915512
+"171","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,7,708178,81,-14.953037,-1.9109129
+"172","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,43,713378,30,-53.2154,40.00743
+"173","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,42,143603,1471,-9.89747,-0.9105189
+"174","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,7,304890,124,-29.799154,5.402646
+"175","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,6,473998,37,-37.26854,67.174576
+"176","Movement Disorders","Easy
+(1st quartile)",FALSE,TRUE,10,884535,501,41.037827,-9.372457
+"177","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,5,388280,450,-50.02504,-44.56475
+"178","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,10,278665,911,5.149253,47.21986
+"179","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,10,318090,85,-71.16895,-4.987323
+"180","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,45,903304,76,-52.937035,41.186985
+"181","Movement Disorders","Difficult
+(4th quartile)",FALSE,FALSE,3,780806,231,-21.73481,6.516107
+"182","Movement Disorders","Intermediate
+(2nd quartile)",FALSE,TRUE,6,360125,826,-1.1906271,7.792127
+"183","Movement Disorders","Intermediate
+(2nd quartile)",FALSE,TRUE,13,329973,643,-2.475779,-0.35667947
+"184","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,20,567203,121,-46.343864,22.543715
+"185","Movement Disorders","Difficult
+(4th quartile)",FALSE,TRUE,22,654446,417,6.1702766,16.248106
+"186","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,FALSE,16,886006,332,30.948626,10.61084
+"187","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,6,582718,1286,-2.82878,-6.716288
+"188","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,7,404702,45,-78.213356,-16.15427
+"189","Movement Disorders","Difficult
+(4th quartile)",TRUE,FALSE,23,172811,709,-9.353253,-0.06612454
+"190","Movement Disorders","Easy
+(1st quartile)",FALSE,TRUE,8,795354,1232,71.3048,7.7264285
+"191","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,10,640653,577,-6.60636,-2.7116346
+"192","Movement Disorders","Difficult
+(4th quartile)",FALSE,FALSE,11,313249,394,52.2183,-53.280144
+"193","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,6,663257,1224,-12.206254,1.2410547
+"194","Movement Disorders","Difficult
+(4th quartile)",FALSE,TRUE,6,551589,79,-67.08585,1.6161473
+"195","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,10,472034,87,-48.978683,20.145521
+"196","Movement Disorders","Difficult
+(4th quartile)",FALSE,TRUE,9,722980,725,-48.672787,-37.957386
+"197","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,8,985992,332,31.039639,10.481945
+"198","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,7,826648,856,-0.8774457,7.9333115
+"199","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,9,30003,649,-9.80768,-7.7799625
+"200","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,8,568997,459,-45.592827,-39.437744
+"201","Movement Disorders","Intermediate
+(2nd quartile)",FALSE,FALSE,10,30124,1089,-13.335909,-0.1768792
+"202","Movement Disorders","Difficult
+(4th quartile)",FALSE,TRUE,4,961001,172,-59.905243,-25.504368
+"203","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,7,409004,997,-19.722866,0.37350622
+"204","Movement Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,8,279997,135,-66.01536,-10.614613
+"205","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,11,911998,460,1.8537318,7.5219183
+"206","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,8,266011,374,54.277203,-53.265945
+"207","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,7,196002,115,-64.888596,44.551666
+"208","Movement Disorders","Difficult
+(4th quartile)",TRUE,FALSE,14,117102,312,9.778738,37.438572
+"209","Movement Disorders","Advanced
+(3rd quartile)",FALSE,FALSE,10,436996,604,-9.05733,6.5412874
+"210","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,9,904973,564,51.825207,-52.135124
+"211","Movement Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,4,721999,108,-48.013298,20.370527
+"212","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,12,271047,576,81.504745,7.3146276
+"213","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,11,137519,525,-8.824403,6.522171
+"214","Movement Disorders","Easy
+(1st quartile)",TRUE,TRUE,13,686035,394,-6.251191,-2.4695354
+"215","Movement Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,6,783967,344,-11.149171,3.3449585
+"216","Neuroinfectious Disease","Difficult
+(4th quartile)",TRUE,TRUE,48,204140,107,67.60457,34.49975
+"217","Neuroinfectious Disease","Advanced
+(3rd quartile)",TRUE,FALSE,7,561999,300,25.982243,-6.2611732
+"218","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,9,591662,67,-60.975616,56.50485
+"219","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,TRUE,9,33000,46,-55.542915,25.064543
+"220","Neuroinfectious Disease","Easy
+(1st quartile)",TRUE,TRUE,18,790233,509,17.656458,-12.640776
+"221","Neuroinfectious Disease","Difficult
+(4th quartile)",FALSE,TRUE,16,311193,615,29.352032,-8.051149
+"222","Neuroinfectious Disease","Difficult
+(4th quartile)",FALSE,FALSE,11,68964,769,27.98431,-6.6105886
+"223","Neuroinfectious Disease","Intermediate
+(2nd quartile)",FALSE,TRUE,11,954999,1082,14.862833,-25.396473
+"224","Neuroinfectious Disease","Intermediate
+(2nd quartile)",TRUE,TRUE,7,93002,993,5.42357,-28.236849
+"225","Neuroinfectious Disease","Advanced
+(3rd quartile)",FALSE,TRUE,7,391044,250,15.770279,-17.110083
+"226","Neuroinfectious Disease","Advanced
+(3rd quartile)",TRUE,TRUE,9,698955,504,12.430107,-29.868282
+"227","Neuroinfectious Disease","Easy
+(1st quartile)",FALSE,TRUE,10,986140,303,32.84119,4.673447
+"228","Neuroinfectious Disease","Difficult
+(4th quartile)",FALSE,FALSE,10,447001,960,13.301788,-29.261423
+"229","Neuroinfectious Disease","Difficult
+(4th quartile)",TRUE,FALSE,10,595000,416,22.467762,-18.516018
+"230","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,TRUE,14,449001,46,-55.542652,25.06562
+"231","Neuroinfectious Disease","Difficult
+(4th quartile)",FALSE,TRUE,12,232000,820,50.50868,15.639727
+"232","Neuroinfectious Disease","Difficult
+(4th quartile)",FALSE,TRUE,14,278063,694,28.151392,-6.7252245
+"233","Neuroinfectious Disease","Difficult
+(4th quartile)",TRUE,TRUE,12,333268,332,72.55723,36.85011
+"234","Neuroinfectious Disease","Easy
+(1st quartile)",FALSE,TRUE,7,909007,379,47.8296,15.06243
+"235","Neuroinfectious Disease","Intermediate
+(2nd quartile)",TRUE,TRUE,12,426964,248,11.480923,-30.095592
+"236","Neuroinfectious Disease","Easy
+(1st quartile)",TRUE,TRUE,12,239049,453,24.387268,12.4099655
+"237","Neuroinfectious Disease","Difficult
+(4th quartile)",FALSE,TRUE,6,409005,325,72.80984,35.776512
+"238","Neuroinfectious Disease","Difficult
+(4th quartile)",FALSE,TRUE,7,788963,70,-37.151337,33.48293
+"239","Neuroinfectious Disease","Difficult
+(4th quartile)",TRUE,TRUE,7,626004,560,-14.691149,-18.737457
+"240","Neuroinfectious Disease","Advanced
+(3rd quartile)",FALSE,TRUE,4,73033,562,0.09968745,-30.08869
+"241","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,FALSE,14,692013,271,24.396627,36.289093
+"242","Neuroinfectious Disease","Intermediate
+(2nd quartile)",TRUE,TRUE,7,589985,870,14.260152,-21.716408
+"243","Neuroinfectious Disease","Advanced
+(3rd quartile)",TRUE,TRUE,8,267152,515,34.952442,-53.24039
+"244","Neuroinfectious Disease","Intermediate
+(2nd quartile)",FALSE,TRUE,8,136243,445,19.033596,-19.289446
+"245","Neuroinfectious Disease","Intermediate
+(2nd quartile)",TRUE,TRUE,5,513002,269,53.586285,24.780384
+"246","Neuroinfectious Disease","Intermediate
+(2nd quartile)",TRUE,TRUE,9,181129,506,9.758663,-22.681591
+"247","Neuroinfectious Disease","Intermediate
+(2nd quartile)",TRUE,TRUE,7,417003,585,-8.494781,-27.024582
+"248","Neuroinfectious Disease","Intermediate
+(2nd quartile)",TRUE,TRUE,8,447999,293,30.362564,-9.019495
+"249","Neuroinfectious Disease","Difficult
+(4th quartile)",FALSE,FALSE,9,315002,501,27.939848,-5.2848916
+"250","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",FALSE,FALSE,6,118999,221,13.923365,-65.5566
+"251","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,10,443998,678,76.2063,18.151066
+"252","Basic Neuroscience","Easy
+(1st quartile)",FALSE,TRUE,9,510678,610,-8.8760195,-41.8183
+"253","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",FALSE,TRUE,23,448341,412,58.89554,23.483593
+"254","Neurologic Complications of Systemic Disease","Intermediate
+(2nd quartile)",TRUE,TRUE,5,110028,67,-61.072865,56.723087
+"255","Neurologic Complications of Systemic Disease","Intermediate
+(2nd quartile)",FALSE,TRUE,9,213000,646,18.510727,6.81189
+"256","Neurologic Complications of Systemic Disease","Advanced
+(3rd quartile)",TRUE,FALSE,10,989973,862,14.175379,-24.72903
+"257","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,30,767131,964,61.04051,24.815508
+"258","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",FALSE,FALSE,12,468993,516,78.9874,7.7040052
+"259","Neurologic Complications of Systemic Disease","Advanced
+(3rd quartile)",FALSE,TRUE,7,217980,439,27.460693,-60.942432
+"260","Neurologic Complications of Systemic Disease","Advanced
+(3rd quartile)",FALSE,FALSE,6,698755,271,32.035263,-48.33886
+"261","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,FALSE,10,263003,781,53.767334,-3.7641613
+"262","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",FALSE,TRUE,41,702996,625,73.25592,13.673851
+"263","Basic Neuroscience","Intermediate
+(2nd quartile)",FALSE,FALSE,12,214006,333,55.954247,-23.896002
+"264","Neurologic Complications of Systemic Disease","Intermediate
+(2nd quartile)",TRUE,TRUE,9,866999,509,1.2403197,2.7019842
+"265","Neurologic Complications of Systemic Disease","Advanced
+(3rd quartile)",FALSE,TRUE,11,698002,203,8.266819,-54.20265
+"266","Neurologic Complications of Systemic Disease","Advanced
+(3rd quartile)",TRUE,TRUE,6,711005,677,47.808823,9.444529
+"267","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,11,835203,734,79.47953,30.04598
+"268","Neurologic Complications of Systemic Disease","Advanced
+(3rd quartile)",FALSE,TRUE,8,926187,747,38.672077,-23.433071
+"269","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",TRUE,TRUE,6,176033,199,12.616726,17.999264
+"270","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",FALSE,FALSE,9,304962,775,-1.675224,-40.07778
+"271","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",FALSE,FALSE,7,982002,328,-0.8555136,-40.01807
+"272","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",FALSE,FALSE,8,264998,611,-1.8994617,-40.45091
+"273","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,6,978003,422,26.473413,-58.309597
+"274","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,FALSE,8,539992,528,20.265564,-50.321186
+"275","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,12,207199,458,44.89329,-26.591192
+"276","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,6,891002,38,-29.199312,48.630398
+"277","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,6,864022,621,33.717236,-45.45876
+"278","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",FALSE,FALSE,9,97976,60,-20.523859,48.607105
+"279","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",FALSE,FALSE,11,929197,1100,46.062664,-29.524876
+"280","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,7,56169,320,38.84778,-45.627388
+"281","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,13,717152,422,-13.693299,-18.286469
+"282","Neurologic Complications of Systemic Disease","Advanced
+(3rd quartile)",TRUE,TRUE,14,904492,722,31.598871,-53.59825
+"283","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,5,433979,532,74.75997,20.32878
+"284","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",TRUE,TRUE,5,517015,507,24.458689,33.012794
+"285","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,7,733536,143,33.331337,-2.0073135
+"286","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",FALSE,TRUE,6,605021,640,69.470436,20.014996
+"287","Neurologic Complications of Systemic Disease","Difficult
+(4th quartile)",FALSE,TRUE,7,833963,474,67.43756,33.44701
+"288","Neurologic Complications of Systemic Disease","Advanced
+(3rd quartile)",FALSE,TRUE,12,312998,931,58.675716,17.186934
+"289","Neurologic Complications of Systemic Disease","Intermediate
+(2nd quartile)",TRUE,TRUE,15,14034,1082,50.09696,18.224745
+"290","Neurologic Complications of Systemic Disease","Intermediate
+(2nd quartile)",FALSE,TRUE,8,526006,308,1.6191654,53.27026
+"291","Neurologic Complications of Systemic Disease","Advanced
+(3rd quartile)",FALSE,FALSE,9,275965,670,-11.900589,-13.248441
+"292","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,7,697040,932,50.51597,-4.2283654
+"293","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",TRUE,TRUE,19,429478,932,50.516476,-4.228459
+"294","Neurologic Complications of Systemic Disease","Advanced
+(3rd quartile)",FALSE,TRUE,10,201177,84,-20.101627,25.07731
+"295","Neurologic Complications of Systemic Disease","Easy
+(1st quartile)",FALSE,TRUE,7,924971,713,29.0293,-3.9732254
+"296","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,14,330034,107,-53.541073,56.841003
+"297","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,9,647993,1271,25.600616,9.655538
+"298","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,12,249005,107,-46.646557,51.67844
+"299","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,11,252034,477,72.86277,8.467535
+"300","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,12,154016,516,25.507202,19.98014
+"301","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,12,751951,382,72.287125,21.078585
+"302","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,7,663998,436,48.792736,22.81188
+"303","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,12,860997,640,78.39672,9.032164
+"304","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,9,887031,355,46.75716,25.445282
+"305","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,13,102016,56,-43.581604,29.736433
+"306","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,16,904952,72,37.577003,45.707397
+"307","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,13,409619,477,25.584917,16.71734
+"308","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,6,118002,333,-4.164185,10.3010235
+"309","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,15,233001,424,46.387352,22.773212
+"310","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,7,404000,909,53.84415,18.39037
+"311","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,24,876134,655,41.874985,26.89529
+"312","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,11,56049,443,78.16057,10.109704
+"313","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,4,978004,67,14.715944,-19.039785
+"314","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,11,533976,288,6.3353386,19.414831
+"315","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,10,411027,115,-20.823536,48.741653
+"316","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,11,26949,511,56.570343,22.682335
+"317","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,30,93003,761,-1.1393305,-6.6516113
+"318","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,6,429981,453,43.633095,-18.577684
+"319","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,6,207000,448,1.592027,21.952555
+"320","Neuromuscular","Advanced
+(3rd quartile)",TRUE,FALSE,9,162968,968,53.925556,-8.189458
+"321","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,7,304000,70,-16.85099,49.64894
+"322","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,8,333058,172,38.56968,-2.4566135
+"323","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,20,228028,502,78.27422,7.829549
+"324","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,7,889917,595,48.604618,22.786772
+"325","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,13,730020,669,46.292564,23.464323
+"326","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,6,144016,1066,53.981422,18.37975
+"327","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,10,86584,250,15.77028,-17.110392
+"328","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,74033,73,-64.888535,-17.567556
+"329","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,9,120959,692,48.681835,18.039486
+"330","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,6,428042,84,-25.83512,50.557423
+"331","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,4,841962,107,-43.473656,29.55434
+"332","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,7,925996,69,-18.818224,44.233658
+"333","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,3,666055,320,37.539646,-3.6639106
+"334","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,4,192992,177,46.650562,33.132427
+"335","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,6,921956,343,72.68267,22.697361
+"336","Neuromuscular","Intermediate
+(2nd quartile)",FALSE,FALSE,6,978028,87,-26.826252,52.39736
+"337","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,12,44968,179,37.264725,45.374477
+"338","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,11,246047,531,67.173195,23.375942
+"339","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,4,737964,84,-60.25499,-1.0814335
+"340","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,8,36958,549,64.6522,17.038574
+"341","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,7,535996,202,3.2166226,-48.02163
+"342","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,7,722025,88,-18.895164,43.06601
+"343","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,13,612974,794,72.65605,7.19054
+"344","Neuromuscular","Intermediate
+(2nd quartile)",FALSE,TRUE,12,5002,518,66.521645,23.580585
+"345","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,13,143047,734,72.725655,7.163129
+"346","Neuromuscular","Difficult
+(4th quartile)",TRUE,FALSE,6,258018,93,-12.231762,35.65988
+"347","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,8,86992,146,-23.165459,41.51479
+"348","Neuromuscular","Easy
+(1st quartile)",FALSE,TRUE,12,50959,115,-18.16204,43.01282
+"349","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,5,933067,92,-69.35637,53.357494
+"350","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,6,858002,254,-31.40415,-38.822006
+"351","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,22,973966,83,-27.982798,52.298462
+"352","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,5,1000,206,8.358526,16.579191
+"353","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,11,703995,489,65.869156,28.98928
+"354","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,7,116032,65,-28.697628,49.419304
+"355","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,15,558024,224,5.6903334,21.4481
+"356","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,11,520970,421,71.79158,20.53178
+"357","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,9,585028,653,65.58763,23.426483
+"358","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,12,737968,511,26.23043,10.223424
+"359","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,6,773036,264,54.845116,25.535555
+"360","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,10,987468,465,69.97909,5.6210403
+"361","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,593003,459,-32.604668,-27.987988
+"362","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,7,513204,61,-16.53473,32.70633
+"363","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,5,812963,68,-44.79877,66.06771
+"364","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,13,223999,922,76.20463,4.217309
+"365","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,13,99004,605,31.799513,-7.8113527
+"366","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,14,478999,871,74.97147,3.636573
+"367","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,8,760998,478,49.926563,27.404007
+"368","Neuromuscular","Intermediate
+(2nd quartile)",FALSE,TRUE,11,680002,696,20.108332,-51.860172
+"369","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,11,217002,508,67.9671,27.011274
+"370","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,18,653031,1001,55.3488,11.922357
+"371","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,31,118964,1820,58.816933,16.89449
+"372","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,10,542996,102,-60.514603,-0.585879
+"373","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,14,661001,794,53.749714,12.670664
+"374","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,11,692613,941,60.263306,12.503906
+"375","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,10,555965,720,67.56737,-4.6624947
+"376","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,7,675032,47,-16.620867,40.447315
+"377","Neuromuscular","Easy
+(1st quartile)",FALSE,TRUE,11,386968,666,24.846966,14.430726
+"378","Neuromuscular","Difficult
+(4th quartile)",TRUE,FALSE,9,156000,977,55.43912,19.081017
+"379","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,8,465037,549,0.0032408016,-13.113656
+"380","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,51,29963,705,75.418076,4.873587
+"381","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,9,914031,1150,73.67263,6.249141
+"382","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,9,492468,80,-23.856524,44.94979
+"383","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,272034,54,-70.32982,50.839172
+"384","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,6,522029,354,-4.6577296,-41.668137
+"385","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,11,60961,752,37.03578,-3.8726578
+"386","Neuromuscular","Intermediate
+(2nd quartile)",FALSE,TRUE,6,609241,80,-27.87051,53.845116
+"387","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,12,33931,421,54.042046,2.8455858
+"388","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,15,955918,369,-0.4347719,-1.8590857
+"389","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,8,396003,117,-47.670815,31.701637
+"390","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,10,402003,336,71.18808,20.159561
+"391","Neuromuscular","Easy
+(1st quartile)",TRUE,FALSE,12,199032,861,58.32316,13.877796
+"392","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,9,204963,230,-3.6361384,30.269299
+"393","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,14,814004,857,77.23754,6.9875183
+"394","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,6,370045,209,-53.30171,-8.073139
+"395","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,17,431088,524,80.41453,4.4055405
+"396","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,6,505884,97,-25.693245,49.545822
+"397","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,17,704158,440,78.27728,6.3296604
+"398","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,12,234044,111,-7.45983,42.04536
+"399","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,FALSE,12,837138,1112,35.28332,4.611708
+"400","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,6,224837,1242,20.072607,-52.58362
+"401","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,9,288036,92,-46.280525,38.4732
+"402","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,8,598068,88,-27.319603,50.745274
+"403","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,15,447002,186,79.81011,10.2357645
+"404","Neuromuscular","Intermediate
+(2nd quartile)",FALSE,TRUE,9,820999,51,-16.554058,40.351826
+"405","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,22,186921,88,34.10467,-23.95221
+"406","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,FALSE,9,951996,397,71.58226,22.762402
+"407","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,5,865004,142,-7.7427096,41.193096
+"408","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,7,328032,546,68.69857,3.551143
+"409","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,11,426964,418,75.80173,15.66983
+"410","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,7,706073,433,78.852,9.436091
+"411","Neuromuscular","Difficult
+(4th quartile)",TRUE,FALSE,13,213953,398,21.7603,-56.550743
+"412","Neuromuscular","Difficult
+(4th quartile)",TRUE,FALSE,12,807043,611,25.005085,-24.075146
+"413","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,15,29003,611,25.005049,-24.075384
+"414","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,18,133177,766,23.840298,-55.518623
+"415","Neuromuscular","Intermediate
+(2nd quartile)",FALSE,TRUE,7,219019,121,-16.821281,50.040306
+"416","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,16,936999,79,-60.581173,3.1919186
+"417","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,7,93976,293,48.684753,28.268013
+"418","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,9,537042,242,25.331783,19.660248
+"419","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,25,982958,1410,23.08473,16.579172
+"420","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,8,176000,170,2.44577,31.74599
+"421","Neuromuscular","Advanced
+(3rd quartile)",TRUE,FALSE,13,332957,470,73.0454,0.9463577
+"422","Neuromuscular","Intermediate
+(2nd quartile)",FALSE,TRUE,4,788166,235,78.90479,-5.9610386
+"423","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,8,664000,348,41.77436,27.213404
+"424","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,7,616003,370,52.96268,6.042706
+"425","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,7,41966,469,76.226105,19.887625
+"426","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,9,490322,73,-56.815586,24.86736
+"427","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,14,383001,292,4.5485415,-42.583164
+"428","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,10,574970,697,72.77646,19.255245
+"429","Neuromuscular","Intermediate
+(2nd quartile)",FALSE,TRUE,11,737035,712,77.08582,8.655192
+"430","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,11,404963,470,-6.724732,-4.347493
+"431","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,24,603000,1410,23.084642,16.579124
+"432","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,5,176000,116,-15.527578,39.776447
+"433","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,8,328001,871,67.06744,18.825453
+"434","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,5,586003,202,24.65666,-28.836222
+"435","Neuromuscular","Advanced
+(3rd quartile)",FALSE,FALSE,10,440001,1516,48.35023,25.965702
+"436","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,9,367964,784,41.95219,-5.7678733
+"437","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,6,392001,59,38.572186,33.7836
+"438","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,16,501450,986,-8.335279,-15.264145
+"439","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,856337,434,-11.306101,-17.302477
+"440","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,4,250997,259,38.014442,42.585896
+"441","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,8,225036,449,69.883675,24.734615
+"442","Neuromuscular","Intermediate
+(2nd quartile)",FALSE,FALSE,12,209969,732,57.112392,14.609952
+"443","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,5,466999,111,-23.965305,45.155167
+"444","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,5,522592,65,-44.811127,24.076887
+"445","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,8,822975,385,-20.981884,-4.834263
+"446","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,7,826992,417,39.265633,-19.253681
+"447","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,13,75004,798,74.80149,3.0652614
+"448","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,8,560171,1036,70.17816,26.480337
+"449","Neuromuscular","Difficult
+(4th quartile)",TRUE,FALSE,38,375777,1021,70.430824,-0.1960267
+"450","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,15,440024,401,-1.894877,23.398245
+"451","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,13,597005,961,71.45287,18.630142
+"452","Neuromuscular","Intermediate
+(2nd quartile)",FALSE,TRUE,12,342998,595,73.0008,2.4444215
+"453","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,8,687996,1113,55.919094,12.682352
+"454","Neuromuscular","Intermediate
+(2nd quartile)",FALSE,TRUE,8,725005,497,73.79347,2.8401709
+"455","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,4,564028,587,75.813805,6.759028
+"456","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,8,340969,106,-45.649895,24.437128
+"457","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,16,41179,308,47.02852,27.931602
+"458","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,20,724794,469,39.546402,-20.072123
+"459","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,6,977005,884,59.02459,13.052302
+"460","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,26,26846,91,-18.123825,45.872925
+"461","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,16,870949,198,-3.4259927,-59.403553
+"462","Neuromuscular","Advanced
+(3rd quartile)",FALSE,FALSE,7,505385,82,-44.14623,30.638811
+"463","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,8,324999,269,-23.385042,42.067547
+"464","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,13,321039,477,-3.6869633,30.059555
+"465","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,6,974963,430,26.433142,-53.889385
+"466","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,12,500324,153,20.702496,15.923371
+"467","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,39,95161,997,76.00588,2.314062
+"468","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,6,51003,66,-16.917326,48.89577
+"469","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,12,758997,646,68.2107,5.1269894
+"470","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,8,558000,348,53.86181,0.8887087
+"471","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,8,583339,1222,60.86628,24.57802
+"472","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,13,854485,439,4.0883865,-29.231323
+"473","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,13,193944,359,49.251118,25.323975
+"474","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,FALSE,8,793001,900,24.62033,-54.792027
+"475","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,7,813034,859,48.87926,26.839512
+"476","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,9,997143,881,63.7729,31.495905
+"477","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,FALSE,16,778133,1488,46.212143,17.480833
+"478","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,10,832141,563,74.68283,1.6659133
+"479","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,4,230415,97,-18.198763,40.16307
+"480","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,8,219000,1933,25.320349,14.867291
+"481","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,8,512004,414,63.65278,19.931927
+"482","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,6,337999,299,70.52946,21.181948
+"483","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,14,900608,685,2.47775,-15.01006
+"484","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,17,213995,217,1.767071,21.927986
+"485","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,14,397002,605,67.17971,5.166116
+"486","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,7,136003,375,-20.32663,-6.879157
+"487","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,8,22996,61,-19.150156,43.706886
+"488","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,12,94493,616,-5.0737863,-41.38956
+"489","Neuromuscular","Difficult
+(4th quartile)",FALSE,TRUE,10,763036,473,31.60463,-8.08572
+"490","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,3,872958,63,-57.648716,54.59034
+"491","Neuromuscular","Difficult
+(4th quartile)",TRUE,TRUE,13,655996,400,26.536673,10.507799
+"492","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,6,658998,197,38.260998,-3.038191
+"493","Neuromuscular","Difficult
+(4th quartile)",FALSE,FALSE,8,143002,137,25.822845,16.720493
+"494","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,575965,647,-17.680836,-29.505785
+"495","Neuromuscular","Advanced
+(3rd quartile)",TRUE,TRUE,7,934998,107,-23.259602,43.638016
+"496","Neuromuscular","Intermediate
+(2nd quartile)",TRUE,TRUE,6,974036,1003,71.94947,-2.5542908
+"497","Neuromuscular","Difficult
+(4th quartile)",TRUE,FALSE,14,767966,1342,68.34661,5.478894
+"498","Neuromuscular","Easy
+(1st quartile)",TRUE,TRUE,9,660036,631,45.883934,24.399769
+"499","Neuromuscular","Advanced
+(3rd quartile)",FALSE,TRUE,14,194969,348,62.526634,35.53656
+"500","Neuro-Ophthalmology","Advanced
+(3rd quartile)",TRUE,TRUE,23,338999,476,68.10514,32.284977
+"501","Neuro-Ophthalmology","Difficult
+(4th quartile)",TRUE,TRUE,5,756088,147,42.230312,10.940805
+"502","Neuro-Ophthalmology","Difficult
+(4th quartile)",FALSE,TRUE,9,597037,101,50.13667,45.115845
+"503","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,9,168996,153,22.163288,30.663782
+"504","Neuro-Ophthalmology","Easy
+(1st quartile)",TRUE,TRUE,10,87001,380,36.218395,10.952462
+"505","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,10,434074,679,1.6800816,-18.578901
+"506","Neuro-Ophthalmology","Advanced
+(3rd quartile)",FALSE,TRUE,5,481018,82,-53.603188,65.58454
+"507","Neuro-Ophthalmology","Easy
+(1st quartile)",TRUE,TRUE,15,738971,89,33.657837,20.824377
+"508","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,6,656040,56,32.860786,22.349434
+"509","Neuro-Ophthalmology","Easy
+(1st quartile)",TRUE,TRUE,8,500092,343,37.04403,-48.4088
+"510","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,10,614000,94,50.131107,45.12449
+"511","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,11,627022,361,26.439627,14.243786
+"512","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,12,859966,75,-51.43131,64.38037
+"513","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,24,76034,917,13.661461,13.130284
+"514","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",FALSE,TRUE,16,568968,59,-44.01091,48.831104
+"515","Neuro-Ophthalmology","Advanced
+(3rd quartile)",FALSE,TRUE,7,962000,89,-48.006657,42.54435
+"516","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,16,175419,569,-16.916246,-7.8988414
+"517","Neuro-Ophthalmology","Advanced
+(3rd quartile)",TRUE,TRUE,9,114002,467,42.073612,10.013497
+"518","Neuro-Ophthalmology","Difficult
+(4th quartile)",TRUE,TRUE,7,956047,496,40.04946,8.323517
+"519","Neuro-Ophthalmology","Advanced
+(3rd quartile)",TRUE,TRUE,7,198990,79,42.46562,12.409045
+"520","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",FALSE,FALSE,11,936000,392,32.329212,5.9459424
+"521","Neuro-Ophthalmology","Easy
+(1st quartile)",TRUE,TRUE,7,321005,449,42.368706,7.5589285
+"522","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,9,460024,77,-48.695385,41.245586
+"523","Neuro-Ophthalmology","Advanced
+(3rd quartile)",FALSE,TRUE,5,609970,80,10.968689,37.254272
+"524","Neuro-Ophthalmology","Easy
+(1st quartile)",TRUE,TRUE,11,542027,213,30.380136,15.327327
+"525","Neuro-Ophthalmology","Advanced
+(3rd quartile)",FALSE,TRUE,14,45999,79,-41.682724,47.674637
+"526","Neuro-Ophthalmology","Easy
+(1st quartile)",TRUE,FALSE,5,37971,28,-20.854536,60.35168
+"527","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,5,884002,57,-26.535944,18.000336
+"528","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,10,880028,1094,48.163383,-11.00376
+"529","Neuro-Ophthalmology","Advanced
+(3rd quartile)",FALSE,TRUE,7,602969,301,73.02929,-22.28661
+"530","Neuro-Ophthalmology","Easy
+(1st quartile)",TRUE,TRUE,10,266044,395,31.790386,3.620006
+"531","Neuro-Ophthalmology","Difficult
+(4th quartile)",TRUE,TRUE,8,649953,353,35.80898,14.645011
+"532","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,9,961032,311,31.73882,16.946987
+"533","Neuro-Ophthalmology","Advanced
+(3rd quartile)",FALSE,TRUE,11,736004,571,37.996334,8.440956
+"534","Neuro-Ophthalmology","Difficult
+(4th quartile)",TRUE,TRUE,13,244997,59,-48.94567,44.102108
+"535","Neuro-Ophthalmology","Difficult
+(4th quartile)",FALSE,TRUE,13,904015,76,-49.36067,42.67739
+"536","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",FALSE,FALSE,8,133969,393,-3.7866588,-12.519432
+"537","Neuro-Ophthalmology","Difficult
+(4th quartile)",TRUE,TRUE,40,103008,199,12.616726,17.999264
+"538","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,FALSE,9,275000,240,-23.384846,-32.79125
+"539","Neuro-Ophthalmology","Advanced
+(3rd quartile)",FALSE,TRUE,8,41000,220,38.58293,13.218816
+"540","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,7,960972,36,-20.885353,60.292305
+"541","Neuro-Ophthalmology","Difficult
+(4th quartile)",FALSE,FALSE,11,511996,673,60.25885,-24.705126
+"542","Neuro-Ophthalmology","Difficult
+(4th quartile)",TRUE,TRUE,6,42000,120,36.069714,20.212143
+"543","Neuro-Ophthalmology","Difficult
+(4th quartile)",FALSE,FALSE,9,443000,290,33.731236,12.751644
+"544","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,6,913033,142,36.11688,20.163994
+"545","Neuro-Ophthalmology","Difficult
+(4th quartile)",FALSE,TRUE,6,78003,76,-49.36909,42.665314
+"546","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",TRUE,TRUE,7,239001,69,42.51407,22.34156
+"547","Neuro-Ophthalmology","Easy
+(1st quartile)",TRUE,TRUE,7,644011,447,35.59571,14.968137
+"548","Neuro-Ophthalmology","Intermediate
+(2nd quartile)",FALSE,TRUE,6,321985,74,-32.18732,44.738094
+"549","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,10,651645,986,-8.334843,-15.263756
+"550","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,11,709998,623,-4.2315626,-43.06098
+"551","Neuro-Ophthalmology","Advanced
+(3rd quartile)",FALSE,FALSE,16,253010,519,31.843935,12.495907
+"552","Neuro-Otology","Intermediate
+(2nd quartile)",TRUE,TRUE,28,587208,323,66.445244,-33.888607
+"553","Neuro-Otology","Intermediate
+(2nd quartile)",TRUE,TRUE,8,606038,311,32.019955,16.49772
+"554","Neuro-Otology","Difficult
+(4th quartile)",FALSE,FALSE,8,297039,385,69.18018,-33.472935
+"555","Neuro-Otology","Difficult
+(4th quartile)",FALSE,FALSE,8,352003,83,-47.31191,49.909138
+"556","Neuro-Otology","Difficult
+(4th quartile)",FALSE,FALSE,8,466329,304,60.163982,-28.801186
+"557","Neuro-Otology","Advanced
+(3rd quartile)",FALSE,FALSE,8,888611,528,63.495422,-32.44933
+"558","Neuro-Otology","Difficult
+(4th quartile)",TRUE,TRUE,6,591690,205,76.016914,-24.789097
+"559","Neuro-Otology","Difficult
+(4th quartile)",TRUE,TRUE,6,905468,205,76.01691,-24.788979
+"560","Neuro-Otology","Advanced
+(3rd quartile)",FALSE,TRUE,13,481387,538,56.45381,-10.230172
+"561","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,935005,299,-19.662466,-40.254997
+"562","Neuro-Otology","Advanced
+(3rd quartile)",TRUE,TRUE,7,478023,335,69.68577,-20.49187
+"563","Neuro-Otology","Difficult
+(4th quartile)",TRUE,TRUE,12,879571,1143,5.0133796,17.567762
+"564","Neuro-Otology","Easy
+(1st quartile)",FALSE,TRUE,12,618341,394,62.279453,-30.334099
+"565","Neuro-Otology","Easy
+(1st quartile)",FALSE,TRUE,23,862680,641,56.389065,-10.099567
+"566","Neuro-Otology","Intermediate
+(2nd quartile)",TRUE,TRUE,6,890413,79,-51.96333,47.279484
+"567","Neuro-Otology","Difficult
+(4th quartile)",TRUE,TRUE,26,139557,1435,60.698505,25.927963
+"568","Neuro-Otology","Difficult
+(4th quartile)",TRUE,TRUE,8,958733,479,68.18812,-29.52527
+"569","Neuro-Otology","Intermediate
+(2nd quartile)",TRUE,TRUE,7,94817,338,69.187965,-31.529087
+"570","Neuro-Otology","Easy
+(1st quartile)",TRUE,TRUE,12,310901,267,69.26327,-33.343296
+"571","Neuro-Otology","Easy
+(1st quartile)",TRUE,TRUE,18,403054,931,63.85076,-30.413929
+"572","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,76995,98,-77.58313,52.77226
+"573","Neuro-Otology","Easy
+(1st quartile)",TRUE,TRUE,12,289099,452,68.74817,-20.752853
+"574","Neuro-Otology","Difficult
+(4th quartile)",FALSE,FALSE,16,542328,163,65.94385,-30.072401
+"575","Neuro-Otology","Intermediate
+(2nd quartile)",FALSE,TRUE,8,531166,278,67.1203,-19.278965
+"576","Neuro-Otology","Advanced
+(3rd quartile)",TRUE,FALSE,9,526852,78,-50.236107,59.139347
+"577","Neuro-Otology","Intermediate
+(2nd quartile)",TRUE,TRUE,33,236885,1004,66.83534,-31.735876
+"578","Neuro-Otology","Difficult
+(4th quartile)",FALSE,FALSE,13,439344,409,69.908936,-22.858343
+"579","Neuro-Otology","Advanced
+(3rd quartile)",FALSE,FALSE,9,266369,436,68.370056,-29.210825
+"580","Neuro-Otology","Intermediate
+(2nd quartile)",TRUE,TRUE,11,408246,199,58.96135,-31.62406
+"581","Neuro-Otology","Advanced
+(3rd quartile)",FALSE,TRUE,8,479231,78,-49.195103,59.229156
+"582","Neuro-Otology","Advanced
+(3rd quartile)",FALSE,TRUE,13,848892,496,63.901676,-32.968693
+"583","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,13,138000,91,-73.99013,46.990826
+"584","Neuro-Otology","Intermediate
+(2nd quartile)",FALSE,TRUE,10,551238,89,68.0046,-21.754566
+"585","Neuro-Otology","Advanced
+(3rd quartile)",FALSE,TRUE,7,64634,572,58.28844,-31.025244
+"586","Neuro-Otology","Difficult
+(4th quartile)",FALSE,TRUE,6,365967,97,-48.146564,60.434406
+"587","Neuro-Otology","Difficult
+(4th quartile)",TRUE,TRUE,7,685361,63,-51.238735,45.795753
+"588","Neuro-Otology","Advanced
+(3rd quartile)",FALSE,TRUE,7,44454,68,-64.21188,52.29646
+"589","Neuro-Otology","Advanced
+(3rd quartile)",FALSE,TRUE,45,366758,372,68.272736,-19.400784
+"590","Neuro-Otology","Intermediate
+(2nd quartile)",FALSE,FALSE,5,166746,329,72.54703,-22.030302
+"591","Neuro-Otology","Intermediate
+(2nd quartile)",TRUE,TRUE,6,383736,622,73.062096,-27.822296
+"592","Neuro-Otology","Difficult
+(4th quartile)",FALSE,TRUE,8,553184,111,-75.955,45.49283
+"593","Neuro-Otology","Difficult
+(4th quartile)",FALSE,FALSE,10,701202,83,-20.78467,33.42734
+"594","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,6,658000,470,-4.622706,32.737404
+"595","Neuro-Otology","Intermediate
+(2nd quartile)",TRUE,TRUE,14,795020,595,70.99285,-20.781881
+"596","Neuro-Otology","Difficult
+(4th quartile)",FALSE,FALSE,9,81442,343,61.4833,-25.821808
+"597","Neuro-Otology","Advanced
+(3rd quartile)",TRUE,TRUE,5,567334,113,-56.60999,57.639473
+"598","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,15,70052,1002,-8.645723,-44.05554
+"599","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",FALSE,TRUE,10,678629,1630,39.29844,6.380432
+"600","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,10,245206,1155,-14.68797,-44.051632
+"601","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",FALSE,TRUE,8,179655,1047,32.034767,33.28572
+"602","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,14,128219,335,-8.938285,-4.0494018
+"603","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,14,803525,1119,36.132217,-54.754784
+"604","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,5,816863,192,27.016562,-15.256339
+"605","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,626004,67,-32.853195,7.969844
+"606","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,6,755428,231,-16.226164,11.271579
+"607","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,13,812397,913,68.216415,17.1872
+"608","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,9,417938,1078,-13.817035,-43.53059
+"609","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,7,360673,166,79.9519,1.5016867
+"610","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,17,500219,544,26.75063,-60.10234
+"611","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",TRUE,TRUE,8,871423,734,1.2136503,-45.937603
+"612","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",FALSE,TRUE,7,472018,166,79.95218,1.5008373
+"613","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,FALSE,19,71149,1396,38.409946,3.8601885
+"614","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,8,626967,1455,5.5382175,27.550346
+"615","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",TRUE,TRUE,7,749122,133,-2.272617,-46.99543
+"616","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,16,366997,299,-18.95629,-7.1812496
+"617","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,5,881160,515,-7.530309,-49.09833
+"618","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,7,304797,397,8.514292,28.487871
+"619","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,11,339051,380,65.27774,31.32657
+"620","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,5,891642,117,-37.560047,17.650528
+"621","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,FALSE,8,639942,397,20.192766,-36.775665
+"622","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,TRUE,12,392213,1153,40.284027,6.062667
+"623","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",TRUE,TRUE,13,189730,319,13.252423,31.23762
+"624","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,TRUE,13,613799,299,13.35249,31.158613
+"625","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,TRUE,10,884274,138,8.265673,-0.5818743
+"626","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,TRUE,9,369008,138,8.265329,-0.5810635
+"627","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,310000,87,-31.232002,26.416471
+"628","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,TRUE,17,254014,423,-11.316185,-45.41595
+"629","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,9,991241,42,-13.995697,26.823742
+"630","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,27,452909,316,15.588687,33.867313
+"631","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,8,119727,316,15.588687,33.867657
+"632","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,10,702992,1034,25.109163,7.658094
+"633","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,8,628168,386,1.7291058,44.704136
+"634","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",TRUE,TRUE,7,551437,815,65.30593,13.965932
+"635","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,9,495752,509,7.156246,30.273628
+"636","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,11,411429,527,53.37328,34.365063
+"637","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,64039,90,-67.26118,45.595833
+"638","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,TRUE,13,514875,527,53.373154,34.36455
+"639","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,FALSE,7,703689,1204,-13.653315,-43.701626
+"640","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,26,385011,828,38.601433,-46.872944
+"641","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",FALSE,TRUE,7,795990,633,-12.882165,-46.051647
+"642","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",FALSE,TRUE,9,639860,633,-12.882165,-46.051662
+"643","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,16,344475,1140,71.85814,-20.210415
+"644","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,FALSE,10,87222,627,-10.738669,-45.222935
+"645","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,8,344685,375,79.351616,20.36729
+"646","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",FALSE,TRUE,12,289106,1129,74.5421,17.228094
+"647","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",FALSE,TRUE,8,508711,220,57.08769,29.727654
+"648","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,282181,65,-46.93947,45.816692
+"649","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,10,918647,703,-9.103733,-38.731747
+"650","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,17,604224,587,7.6861057,32.30554
+"651","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,FALSE,9,357288,642,60.44359,15.477508
+"652","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,10,257825,1600,20.50191,-38.997192
+"653","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,10,51422,1139,12.399719,27.755312
+"654","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",TRUE,TRUE,6,545525,788,2.3281832,45.46983
+"655","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",TRUE,TRUE,13,902343,572,60.28657,17.986412
+"656","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",FALSE,TRUE,17,154944,1035,5.8638377,-29.975843
+"657","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,TRUE,8,806731,542,21.597809,33.001022
+"658","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,24,696449,415,43.37619,22.661797
+"659","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,15,210876,92,-48.134403,50.866722
+"660","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,8,273001,322,-29.120972,-22.17522
+"661","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",FALSE,FALSE,20,230565,903,-2.5682154,-6.6982946
+"662","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",FALSE,TRUE,12,629562,770,21.32967,-17.300472
+"663","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",FALSE,TRUE,11,130327,464,26.835838,-47.717342
+"664","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,11,260193,594,-4.193701,32.726837
+"665","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",FALSE,TRUE,14,905440,904,-12.070961,-40.682163
+"666","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,8,271592,616,13.880671,-47.002903
+"667","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,11,922786,350,5.356763,32.181885
+"668","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",TRUE,TRUE,14,653149,409,45.878014,-33.64102
+"669","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",FALSE,FALSE,8,292760,775,59.896236,15.230495
+"670","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,19,162982,621,-7.8687806,-42.7184
+"671","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,40,790105,244,44.729084,-21.23871
+"672","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,FALSE,9,455947,770,-2.9202259,-49.741657
+"673","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,8,649855,36,-13.994946,26.687954
+"674","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,10,578753,834,51.533485,18.85506
+"675","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,FALSE,10,782349,589,8.190748,28.581852
+"676","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,10,279697,311,3.8767374,37.608887
+"677","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,8,618173,1492,-11.688415,-36.14324
+"678","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",TRUE,TRUE,11,234087,766,-8.230654,-42.74364
+"679","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,6,872067,834,44.49674,-1.7749321
+"680","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",FALSE,TRUE,14,526777,749,57.15509,-23.505081
+"681","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,FALSE,10,876390,504,57.097794,29.743273
+"682","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,13,699002,82,-46.147736,-53.588947
+"683","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,14,184053,1146,45.66875,-31.02304
+"684","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,23,516315,792,31.956333,-6.3877125
+"685","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,8,468131,942,64.01268,14.3841305
+"686","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",FALSE,TRUE,19,378519,383,10.265035,34.299095
+"687","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,10,168869,600,6.6555285,36.26593
+"688","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,11,535593,411,8.875547,23.891088
+"689","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",FALSE,TRUE,10,183125,91,-46.04331,22.984915
+"690","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",TRUE,TRUE,10,247430,828,66.60094,32.050064
+"691","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",FALSE,TRUE,6,686423,350,21.367619,-32.32522
+"692","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,9,656839,1364,65.1034,-31.093735
+"693","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,13,342138,808,-13.529935,-26.68814
+"694","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,FALSE,12,465706,647,74.47421,19.031572
+"695","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",TRUE,TRUE,12,435213,267,10.327333,29.3926
+"696","Neurotoxicology, Nutrition, Metabolic","Difficult
+(4th quartile)",TRUE,TRUE,7,313777,458,-2.0617914,-49.44917
+"697","Neurotoxicology, Nutrition, Metabolic","Advanced
+(3rd quartile)",TRUE,TRUE,19,802213,458,65.1027,31.199316
+"698","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,5,327270,90,-37.83676,17.53425
+"699","Neurotoxicology, Nutrition, Metabolic","Easy
+(1st quartile)",TRUE,TRUE,13,883159,1022,74.58966,18.64601
+"700","Neurotoxicology, Nutrition, Metabolic","Intermediate
+(2nd quartile)",TRUE,TRUE,7,299279,594,56.99084,-23.582008
+"701","Oncology","Intermediate
+(2nd quartile)",TRUE,TRUE,14,443735,564,64.27807,11.936394
+"702","Oncology","Difficult
+(4th quartile)",TRUE,TRUE,12,236349,266,18.727398,-2.5619724
+"703","Oncology","Easy
+(1st quartile)",FALSE,TRUE,8,137972,970,18.149233,47.56298
+"704","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,193004,94,-39.0514,9.013546
+"705","Oncology","Intermediate
+(2nd quartile)",TRUE,FALSE,13,995141,251,15.936338,8.751355
+"706","Oncology","Intermediate
+(2nd quartile)",TRUE,TRUE,12,741716,389,20.555696,0.022935221
+"707","Oncology","Easy
+(1st quartile)",TRUE,TRUE,6,244289,721,19.258656,-11.153162
+"708","Oncology","Advanced
+(3rd quartile)",FALSE,TRUE,6,794350,418,15.265494,1.8699725
+"709","Oncology","Easy
+(1st quartile)",FALSE,TRUE,8,312844,309,20.31688,-6.885742
+"710","Oncology","Advanced
+(3rd quartile)",TRUE,TRUE,11,38537,383,16.60775,-5.3918195
+"711","Oncology","Advanced
+(3rd quartile)",TRUE,TRUE,16,852298,946,15.278984,2.2959807
+"712","Oncology","Easy
+(1st quartile)",TRUE,TRUE,17,421077,401,10.284793,-4.5427756
+"713","Oncology","Intermediate
+(2nd quartile)",TRUE,TRUE,12,680232,491,62.046204,-29.647757
+"714","Oncology","Advanced
+(3rd quartile)",TRUE,TRUE,7,624096,423,21.350864,31.494545
+"715","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,8,162995,168,-33.544735,-12.081715
+"716","Oncology","Advanced
+(3rd quartile)",FALSE,FALSE,10,23260,88,-32.822876,21.260592
+"717","Oncology","Easy
+(1st quartile)",TRUE,TRUE,5,796400,60,-41.426113,48.115997
+"718","Oncology","Difficult
+(4th quartile)",FALSE,FALSE,6,644161,484,18.215784,-4.668935
+"719","Oncology","Advanced
+(3rd quartile)",FALSE,TRUE,8,167166,991,18.946215,-12.127856
+"720","Oncology","Intermediate
+(2nd quartile)",TRUE,TRUE,25,252632,630,15.305214,6.6450043
+"721","Oncology","Difficult
+(4th quartile)",FALSE,TRUE,8,41441,300,61.352303,-29.392076
+"722","Oncology","Difficult
+(4th quartile)",TRUE,TRUE,10,738644,389,2.524054,35.19148
+"723","Oncology","Difficult
+(4th quartile)",FALSE,TRUE,13,778962,605,15.433754,-5.227092
+"724","Oncology","Advanced
+(3rd quartile)",FALSE,FALSE,8,37756,198,15.976794,9.238166
+"725","Oncology","Difficult
+(4th quartile)",FALSE,TRUE,44,564628,593,16.797039,-0.9763691
+"726","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,13,255059,631,-7.7105393,-52.57709
+"727","Oncology","Difficult
+(4th quartile)",TRUE,TRUE,12,554921,81,-37.067364,31.727224
+"728","Oncology","Difficult
+(4th quartile)",TRUE,FALSE,7,943038,160,19.722881,-1.9114311
+"729","Oncology","Intermediate
+(2nd quartile)",FALSE,TRUE,7,339684,84,-32.98108,21.291151
+"730","Oncology","Intermediate
+(2nd quartile)",FALSE,TRUE,7,761598,995,42.180004,-8.670911
+"731","Oncology","Intermediate
+(2nd quartile)",TRUE,TRUE,25,789826,409,17.044321,-12.649438
+"732","Oncology","Difficult
+(4th quartile)",TRUE,TRUE,6,649814,943,47.05622,25.967194
+"733","Oncology","Intermediate
+(2nd quartile)",TRUE,TRUE,14,750752,304,24.938295,-6.8197
+"734","Oncology","Advanced
+(3rd quartile)",FALSE,TRUE,33,229960,888,19.592733,-12.930052
+"735","Oncology","Intermediate
+(2nd quartile)",TRUE,TRUE,14,497457,731,13.641579,-2.804157
+"736","Oncology","Intermediate
+(2nd quartile)",TRUE,TRUE,6,114176,54,-39.255653,48.88425
+"737","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,548000,433,20.702782,36.904854
+"738","Oncology","Advanced
+(3rd quartile)",TRUE,TRUE,6,866777,825,23.698885,-6.276575
+"739","Oncology","Difficult
+(4th quartile)",FALSE,TRUE,10,868753,487,62.87848,-29.503296
+"740","Oncology","Advanced
+(3rd quartile)",TRUE,TRUE,13,453146,787,17.736542,-9.140812
+"741","Oncology","Advanced
+(3rd quartile)",TRUE,TRUE,14,809706,678,40.649475,2.741567
+"742","Oncology","Difficult
+(4th quartile)",TRUE,TRUE,9,989124,72,15.3561945,-2.277286
+"743","Oncology","Easy
+(1st quartile)",TRUE,TRUE,15,983204,562,20.670576,-5.058633
+"744","Oncology","Difficult
+(4th quartile)",TRUE,TRUE,14,349563,944,73.65593,14.045458
+"745","Oncology","Intermediate
+(2nd quartile)",FALSE,TRUE,7,700442,705,20.441536,-14.67814
+"746","Oncology","Intermediate
+(2nd quartile)",FALSE,TRUE,8,940025,635,20.11244,-7.010985
+"747","Oncology","Difficult
+(4th quartile)",FALSE,TRUE,12,457789,104,-13.553842,46.05873
+"748","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,966971,97,-6.5766273,48.74744
+"749","Oncology","Difficult
+(4th quartile)",FALSE,TRUE,14,900002,475,17.524954,0.25626993
+"750","Oncology","Advanced
+(3rd quartile)",TRUE,TRUE,8,767867,477,21.844027,-5.02703
+"751","Oncology","Difficult
+(4th quartile)",TRUE,TRUE,7,847496,396,18.48084,1.06914
+"752","Oncology","Difficult
+(4th quartile)",FALSE,FALSE,11,716019,486,19.184347,1.3906509
+"753","Oncology","Easy
+(1st quartile)",TRUE,TRUE,8,402783,875,18.933048,-9.028554
+"754","Oncology","Difficult
+(4th quartile)",FALSE,TRUE,11,60040,530,17.39651,-8.134122
+"755","Oncology","Advanced
+(3rd quartile)",TRUE,TRUE,15,621250,357,23.925646,-62.915215
+"756","Oncology","Advanced
+(3rd quartile)",FALSE,FALSE,9,911389,97,-38.82948,49.53127
+"757","Oncology","Intermediate
+(2nd quartile)",FALSE,TRUE,16,393696,639,41.5474,-48.728626
+"758","Oncology","Intermediate
+(2nd quartile)",TRUE,TRUE,7,248532,532,16.177652,-2.8883286
+"759","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,24,840028,229,-22.460379,-13.677692
+"760","Oncology","Advanced
+(3rd quartile)",FALSE,TRUE,33,807296,671,19.296083,-18.161777
+"761","Oncology","Intermediate
+(2nd quartile)",TRUE,TRUE,8,542546,362,18.39547,-4.6397595
+"762","Oncology","Easy
+(1st quartile)",TRUE,TRUE,8,58055,549,63.130436,-29.231228
+"763","Oncology","Difficult
+(4th quartile)",TRUE,TRUE,10,532899,543,6.3061814,34.863464
+"764","Oncology","Difficult
+(4th quartile)",TRUE,TRUE,8,508621,426,72.0684,14.670328
+"765","Oncology","Difficult
+(4th quartile)",TRUE,TRUE,9,787336,426,72.06869,14.670152
+"766","Oncology","Intermediate
+(2nd quartile)",TRUE,TRUE,8,775581,616,15.272175,1.302941
+"767","Oncology","Advanced
+(3rd quartile)",FALSE,TRUE,9,522158,425,13.104652,7.7399974
+"768","Oncology","Easy
+(1st quartile)",TRUE,TRUE,7,180138,446,15.80563,-4.583628
+"769","Oncology","Advanced
+(3rd quartile)",FALSE,FALSE,11,555918,494,27.728672,-53.55177
+"770","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,14,693959,98,-32.485584,68.6658
+"771","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,14,164975,823,-18.687193,-41.2524
+"772","Oncology","Easy
+(1st quartile)",FALSE,TRUE,10,431731,475,16.089546,5.1459546
+"773","Oncology","Advanced
+(3rd quartile)",FALSE,FALSE,9,562741,587,2.911545,-4.9414334
+"774","Oncology","Easy
+(1st quartile)",FALSE,TRUE,18,408721,1230,17.875061,47.426662
+"775","Oncology","Easy
+(1st quartile)",FALSE,TRUE,16,80345,545,22.834053,-1.9850345
+"776","Oncology","Easy
+(1st quartile)",TRUE,TRUE,6,936371,423,10.288452,-4.5443206
+"777","Oncology","Difficult
+(4th quartile)",FALSE,FALSE,12,553447,473,16.444654,7.150821
+"778","Oncology","Easy
+(1st quartile)",FALSE,TRUE,14,881185,691,19.389137,-8.883434
+"779","Oncology","Difficult
+(4th quartile)",TRUE,TRUE,6,634094,239,17.838633,-2.8561425
+"780","Oncology","Easy
+(1st quartile)",TRUE,TRUE,34,493318,670,15.411462,6.420866
+"781","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,6,409746,357,62.93322,9.926317
+"782","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,305998,471,-2.6665666,-35.38068
+"783","Pain","Easy
+(1st quartile)",TRUE,TRUE,15,117883,66,-49.77599,30.602919
+"784","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,9,905421,88,39.351463,33.99369
+"785","Pain","Intermediate
+(2nd quartile)",FALSE,TRUE,15,129223,65,-54.05223,9.539119
+"786","Pain","Intermediate
+(2nd quartile)",FALSE,TRUE,6,671733,474,61.879684,10.546998
+"787","Pain","Intermediate
+(2nd quartile)",FALSE,TRUE,6,771870,474,61.880127,10.547069
+"788","Pain","Easy
+(1st quartile)",TRUE,TRUE,6,474561,101,-37.335228,-63.638435
+"789","Pain","Easy
+(1st quartile)",TRUE,TRUE,12,48439,76,-70.18593,16.841362
+"790","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,10,230818,117,-66.73346,17.031645
+"791","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,6,466791,402,55.90439,-31.276293
+"792","Pain","Difficult
+(4th quartile)",FALSE,FALSE,7,874018,642,51.431248,-57.02407
+"793","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,9,347999,44,-50.760437,21.460735
+"794","Pain","Advanced
+(3rd quartile)",FALSE,TRUE,8,794304,85,-70.959915,19.196177
+"795","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,8,89886,118,-37.560486,-62.795444
+"796","Pain","Intermediate
+(2nd quartile)",FALSE,TRUE,7,399276,94,40.98725,38.611645
+"797","Pain","Easy
+(1st quartile)",TRUE,TRUE,12,981638,167,54.446087,-57.179596
+"798","Pain","Easy
+(1st quartile)",TRUE,TRUE,9,451154,107,-7.3050723,42.588192
+"799","Pain","Advanced
+(3rd quartile)",FALSE,TRUE,10,627157,71,-46.58213,49.549973
+"800","Pain","Advanced
+(3rd quartile)",FALSE,FALSE,9,914057,142,38.240284,46.512547
+"801","Pain","Easy
+(1st quartile)",TRUE,TRUE,13,660291,595,61.73063,13.172938
+"802","Pain","Intermediate
+(2nd quartile)",FALSE,FALSE,6,644854,57,41.217747,39.147263
+"803","Pain","Easy
+(1st quartile)",TRUE,TRUE,8,174157,214,-66.4945,23.986248
+"804","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,935002,58,-24.08421,-29.76503
+"805","Pain","Easy
+(1st quartile)",TRUE,TRUE,8,547588,191,78.237434,12.450129
+"806","Pain","Advanced
+(3rd quartile)",TRUE,FALSE,8,189703,371,50.37973,-55.180645
+"807","Pain","Easy
+(1st quartile)",TRUE,TRUE,7,978095,102,-65.15246,16.318254
+"808","Pain","Difficult
+(4th quartile)",FALSE,TRUE,9,827927,264,-63.031197,16.110529
+"809","Pain","Intermediate
+(2nd quartile)",FALSE,TRUE,8,47880,802,64.08302,15.514008
+"810","Pain","Advanced
+(3rd quartile)",TRUE,TRUE,12,414252,183,34.42917,44.80738
+"811","Pain","Difficult
+(4th quartile)",FALSE,FALSE,15,732955,1311,59.28619,5.7738147
+"812","Pain","Difficult
+(4th quartile)",FALSE,TRUE,11,441448,393,0.7907892,-35.97463
+"813","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,12,806535,72,-71.63478,9.342559
+"814","Pain","Easy
+(1st quartile)",TRUE,TRUE,12,595654,99,-70.7669,11.353247
+"815","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,14,336997,91,-20.006786,15.980268
+"816","Pain","Intermediate
+(2nd quartile)",FALSE,TRUE,9,558465,104,-64.72622,21.40714
+"817","Pain","Advanced
+(3rd quartile)",TRUE,TRUE,8,924154,122,-64.99275,14.906468
+"818","Pain","Easy
+(1st quartile)",TRUE,TRUE,8,738072,372,-9.005041,-48.811623
+"819","Pain","Difficult
+(4th quartile)",FALSE,TRUE,7,129760,325,72.809685,35.77734
+"820","Pain","Easy
+(1st quartile)",TRUE,TRUE,4,901068,36,-66.2276,22.886969
+"821","Pain","Intermediate
+(2nd quartile)",FALSE,TRUE,10,442080,157,78.16126,4.7671413
+"822","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,11,564360,333,56.26655,15.535936
+"823","Pain","Easy
+(1st quartile)",TRUE,TRUE,9,681534,76,-64.96546,16.473175
+"824","Pain","Difficult
+(4th quartile)",FALSE,FALSE,5,536592,109,-63.570065,15.284815
+"825","Pain","Easy
+(1st quartile)",TRUE,TRUE,9,391805,173,8.198463,58.10555
+"826","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,9,271030,44,-2.151684,-19.200178
+"827","Pain","Easy
+(1st quartile)",FALSE,TRUE,9,328614,374,7.3915396,-35.046967
+"828","Pain","Difficult
+(4th quartile)",TRUE,TRUE,7,428588,76,-64.74925,21.388237
+"829","Pain","Easy
+(1st quartile)",TRUE,TRUE,6,88171,83,40.793114,38.071064
+"830","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,13,865493,72,-69.60892,15.654759
+"831","Pain","Advanced
+(3rd quartile)",FALSE,TRUE,7,356305,831,12.855744,-43.92016
+"832","Pain","Difficult
+(4th quartile)",TRUE,FALSE,14,856378,635,37.46859,-59.3776
+"833","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,8,564939,274,64.121735,9.0282135
+"834","Pain","Easy
+(1st quartile)",TRUE,TRUE,8,646379,60,-26.947512,52.301727
+"835","Pain","Intermediate
+(2nd quartile)",FALSE,TRUE,7,100836,373,-2.921415,-58.540974
+"836","Pain","Advanced
+(3rd quartile)",TRUE,TRUE,18,116026,35,-50.29174,30.228735
+"837","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,17,816971,166,-34.644154,-20.22684
+"838","Pain","Easy
+(1st quartile)",TRUE,TRUE,4,974355,101,-72.115685,13.066284
+"839","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,6,239364,95,-71.81656,11.110486
+"840","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,6,414002,95,-44.31929,-0.64861
+"841","Pain","Easy
+(1st quartile)",TRUE,TRUE,11,192523,114,-36.74877,64.93735
+"842","Pain","Advanced
+(3rd quartile)",TRUE,TRUE,6,812596,390,69.296234,23.43343
+"843","Pain","Intermediate
+(2nd quartile)",FALSE,TRUE,6,182090,68,-63.187763,14.914224
+"844","Pain","Easy
+(1st quartile)",TRUE,TRUE,17,295005,734,79.27039,29.971264
+"845","Pain","Easy
+(1st quartile)",TRUE,TRUE,5,263194,42,-66.30377,23.268808
+"846","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,9,280629,58,-45.41884,1.3648831
+"847","Pain","Intermediate
+(2nd quartile)",TRUE,TRUE,14,376008,88,-53.97752,-3.9189816
+"848","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,21,486032,1045,-37.560215,-40.114788
+"849","Pain","Difficult
+(4th quartile)",TRUE,TRUE,8,314362,581,43.823166,-62.922745
+"850","Pain","Easy
+(1st quartile)",FALSE,TRUE,11,101039,41,14.851402,-70.44268
+"851","Pain","Advanced
+(3rd quartile)",TRUE,TRUE,12,442382,95,-66.51554,13.587036
+"852","Pain","Easy
+(1st quartile)",FALSE,TRUE,24,644309,402,43.607224,-52.184994
+"853","Pharmacology","Easy
+(1st quartile)",TRUE,TRUE,8,439300,329,14.282332,58.26048
+"854","Pharmacology","Difficult
+(4th quartile)",FALSE,FALSE,6,955118,498,33.82471,-56.986668
+"855","Pharmacology","Advanced
+(3rd quartile)",TRUE,TRUE,36,301878,370,3.7354722,57.509247
+"856","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,10,254857,502,-2.9901626,-38.869453
+"857","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,8,374148,66,-58.14429,-10.442279
+"858","Pharmacology","Advanced
+(3rd quartile)",TRUE,TRUE,6,637331,163,0.45864737,60.775696
+"859","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,FALSE,6,184375,47,-27.051184,4.3243084
+"860","Pharmacology","Difficult
+(4th quartile)",TRUE,TRUE,13,976028,48,-52.356194,-54.49905
+"861","Pharmacology","Advanced
+(3rd quartile)",TRUE,TRUE,9,100756,464,37.294636,-54.477
+"862","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,7,792765,295,-31.296497,-40.211716
+"863","Pharmacology","Difficult
+(4th quartile)",TRUE,TRUE,21,20184,328,41.565845,-70.49998
+"864","Pharmacology","Intermediate
+(2nd quartile)",TRUE,FALSE,8,409231,174,-42.005447,-51.823334
+"865","Pharmacology","Difficult
+(4th quartile)",TRUE,FALSE,10,394580,413,43.544403,-61.070934
+"866","Pharmacology","Advanced
+(3rd quartile)",FALSE,TRUE,9,28343,313,33.93672,-34.910408
+"867","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,7,964091,913,15.86547,51.83874
+"868","Pharmacology","Easy
+(1st quartile)",FALSE,TRUE,14,856301,1035,5.86511,-29.976538
+"869","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,4,213493,177,46.411804,33.221874
+"870","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,983001,51,-48.387733,7.430014
+"871","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,8,879427,351,-43.9865,-52.7933
+"872","Pharmacology","Advanced
+(3rd quartile)",TRUE,TRUE,6,427154,91,-74.58146,32.859123
+"873","Pharmacology","Easy
+(1st quartile)",TRUE,TRUE,8,39351,679,1.68007,-18.577715
+"874","Pharmacology","Easy
+(1st quartile)",TRUE,TRUE,9,32374,292,4.5481067,-42.584816
+"875","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,9,810688,490,1.9655585,-32.00028
+"876","Pharmacology","Easy
+(1st quartile)",TRUE,TRUE,9,594361,294,12.537164,50.067284
+"877","Pharmacology","Easy
+(1st quartile)",TRUE,TRUE,9,122801,975,-8.997062,-19.017305
+"878","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,6,54939,622,73.06247,-27.82281
+"879","Pharmacology","Advanced
+(3rd quartile)",FALSE,TRUE,15,523077,110,-68.94379,-29.898302
+"880","Pharmacology","Advanced
+(3rd quartile)",FALSE,FALSE,17,234898,518,-2.4614449,-47.35607
+"881","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,35,576203,177,-13.439612,3.6736104
+"882","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,16,117000,351,-38.521442,-22.48717
+"883","Pharmacology","Advanced
+(3rd quartile)",FALSE,TRUE,18,682192,1352,68.42954,-17.911547
+"884","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,11,979827,823,47.071766,-60.695118
+"885","Pharmacology","Advanced
+(3rd quartile)",FALSE,TRUE,11,166913,575,49.34857,-44.89004
+"886","Pharmacology","Advanced
+(3rd quartile)",FALSE,FALSE,6,493315,667,6.844584,59.993088
+"887","Pharmacology","Easy
+(1st quartile)",TRUE,TRUE,9,980342,515,-7.5304084,-49.09858
+"888","Pharmacology","Difficult
+(4th quartile)",FALSE,TRUE,7,527456,603,22.09016,-19.805752
+"889","Pharmacology","Advanced
+(3rd quartile)",FALSE,TRUE,11,203361,399,17.119375,58.0234
+"890","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,6,305555,543,17.113594,-41.263676
+"891","Pharmacology","Advanced
+(3rd quartile)",FALSE,FALSE,22,111145,91,-24.810257,25.737013
+"892","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,5,934000,514,21.080647,16.774164
+"893","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,17,870035,97,-18.160456,26.718987
+"894","Pharmacology","Advanced
+(3rd quartile)",TRUE,TRUE,6,801999,300,16.002337,53.480736
+"895","Pharmacology","Easy
+(1st quartile)",TRUE,TRUE,8,138007,63,-51.497013,20.049164
+"896","Pharmacology","Difficult
+(4th quartile)",TRUE,FALSE,41,380998,492,-22.64309,7.602937
+"897","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,10,435029,1040,-33.82858,-45.040184
+"898","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,8,518972,51,-48.38733,7.4310055
+"899","Pharmacology","Difficult
+(4th quartile)",FALSE,TRUE,22,190433,846,16.16245,27.676994
+"900","Pharmacology","Advanced
+(3rd quartile)",TRUE,TRUE,8,256005,119,-40.033913,6.636542
+"901","Pharmacology","Intermediate
+(2nd quartile)",FALSE,TRUE,7,428996,610,-1.1229093,-23.018106
+"902","Pharmacology","Advanced
+(3rd quartile)",FALSE,TRUE,7,430002,398,-6.9225926,0.60420084
+"903","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,36,106995,834,35.833626,-30.356033
+"904","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,6,920965,975,-8.9970875,-19.017221
+"905","Pharmacology","Difficult
+(4th quartile)",TRUE,TRUE,14,384002,404,41.028408,-64.05325
+"906","Pharmacology","Difficult
+(4th quartile)",FALSE,FALSE,6,768997,297,37.264206,-67.91414
+"907","Pharmacology","Advanced
+(3rd quartile)",FALSE,FALSE,8,871001,290,3.1475177,61.48668
+"908","Pharmacology","Advanced
+(3rd quartile)",FALSE,TRUE,10,957999,484,1.1120951,61.72092
+"909","Pharmacology","Advanced
+(3rd quartile)",TRUE,TRUE,12,286000,872,-4.6162806,-20.879414
+"910","Pharmacology","Difficult
+(4th quartile)",FALSE,TRUE,13,42034,615,-3.5677364,-18.566374
+"911","Pharmacology","Easy
+(1st quartile)",FALSE,TRUE,15,118029,302,25.547144,-42.740433
+"912","Pharmacology","Difficult
+(4th quartile)",FALSE,FALSE,9,38965,287,39.567474,-66.06261
+"913","Pharmacology","Advanced
+(3rd quartile)",TRUE,FALSE,9,184030,70,14.724645,-71.246086
+"914","Pharmacology","Easy
+(1st quartile)",TRUE,TRUE,12,914968,374,-12.547404,2.4892535
+"915","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,16,374002,312,35.650124,-12.796512
+"916","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,41,527121,88,-30.05291,-61.05335
+"917","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,8,292970,742,47.02978,34.4144
+"918","Pharmacology","Difficult
+(4th quartile)",FALSE,TRUE,9,277996,139,-51.21351,-16.374174
+"919","Pharmacology","Advanced
+(3rd quartile)",TRUE,TRUE,8,712001,75,-44.953808,1.1974578
+"920","Pharmacology","Easy
+(1st quartile)",TRUE,TRUE,32,440047,1374,41.269073,-25.940912
+"921","Pharmacology","Easy
+(1st quartile)",TRUE,TRUE,4,540988,866,38.48677,-62.89324
+"922","Pharmacology","Advanced
+(3rd quartile)",TRUE,TRUE,8,378991,78,-42.686337,5.426953
+"923","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,37,20027,112,-38.05495,9.483403
+"924","Pharmacology","Advanced
+(3rd quartile)",FALSE,TRUE,9,986971,562,0.099649355,-30.086742
+"925","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,38,327999,506,9.7225895,-22.484997
+"926","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,FALSE,12,930001,139,12.954692,43.77869
+"927","Pharmacology","Intermediate
+(2nd quartile)",FALSE,FALSE,7,870006,536,14.0004425,50.785946
+"928","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,9,464992,76,-55.890568,4.042094
+"929","Pharmacology","Advanced
+(3rd quartile)",FALSE,TRUE,10,365635,509,17.531773,-68.02473
+"930","Pharmacology","Easy
+(1st quartile)",TRUE,TRUE,20,126997,734,79.44944,29.823236
+"931","Pharmacology","Advanced
+(3rd quartile)",TRUE,TRUE,6,214995,222,-7.0817294,-47.17751
+"932","Pharmacology","Intermediate
+(2nd quartile)",TRUE,TRUE,32,464174,77,-43.122494,0.05346577
+"933","Pregnancy","Advanced
+(3rd quartile)",TRUE,TRUE,20,289003,265,20.798433,18.61051
+"934","Pregnancy","Difficult
+(4th quartile)",FALSE,TRUE,5,134025,52,-40.31356,41.095833
+"935","Pregnancy","Difficult
+(4th quartile)",TRUE,FALSE,16,943016,690,-4.2995,3.097325
+"936","Pregnancy","Advanced
+(3rd quartile)",TRUE,TRUE,5,191952,94,-64.752556,41.71692
+"937","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,10,461996,262,-5.8889523,-23.962015
+"938","Pregnancy","Difficult
+(4th quartile)",FALSE,FALSE,17,794007,334,23.86038,27.590097
+"939","Pregnancy","Advanced
+(3rd quartile)",TRUE,FALSE,10,432038,414,21.732338,18.980158
+"940","Pregnancy","Advanced
+(3rd quartile)",TRUE,TRUE,25,492586,661,22.10374,19.05251
+"941","Pregnancy","Intermediate
+(2nd quartile)",TRUE,TRUE,7,413045,210,-25.446947,-57.00013
+"942","Pregnancy","Intermediate
+(2nd quartile)",TRUE,TRUE,32,969987,68,-31.100592,44.30158
+"943","Pregnancy","Difficult
+(4th quartile)",TRUE,TRUE,16,409964,87,-57.325405,39.9102
+"944","Pregnancy","Advanced
+(3rd quartile)",TRUE,TRUE,7,615001,106,-63.928165,39.76729
+"945","Pregnancy","Advanced
+(3rd quartile)",TRUE,TRUE,9,43001,90,-42.325115,41.628445
+"946","Pregnancy","Difficult
+(4th quartile)",FALSE,FALSE,5,512002,468,2.195718,60.948544
+"947","Pregnancy","Easy
+(1st quartile)",TRUE,TRUE,9,170999,473,37.706158,-62.16992
+"948","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,246006,490,1.9658803,-32.000217
+"949","Pregnancy","Easy
+(1st quartile)",TRUE,TRUE,5,587003,80,-33.93755,40.0499
+"950","Pregnancy","Advanced
+(3rd quartile)",TRUE,TRUE,5,777994,69,-64.88149,39.479324
+"951","Pregnancy","Difficult
+(4th quartile)",FALSE,TRUE,9,922003,81,-37.730576,39.147068
+"952","Pregnancy","Intermediate
+(2nd quartile)",FALSE,TRUE,10,939029,375,-26.076488,-57.09544
+"953","Pregnancy","Easy
+(1st quartile)",TRUE,TRUE,6,846968,109,-33.989788,40.056015
+"954","Sleep","Easy
+(1st quartile)",TRUE,TRUE,5,772000,114,-68.33168,-6.549779
+"955","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,7,444048,107,-66.44857,-29.483906
+"956","Sleep","Easy
+(1st quartile)",TRUE,TRUE,5,159001,83,-68.59943,-6.94799
+"957","Sleep","Easy
+(1st quartile)",TRUE,TRUE,13,673953,229,-62.628754,-30.359991
+"958","Sleep","Easy
+(1st quartile)",FALSE,TRUE,8,496699,91,-66.26333,-30.478518
+"959","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,11,169000,325,-22.185213,-33.86688
+"960","Sleep","Easy
+(1st quartile)",TRUE,TRUE,8,841041,72,-81.156364,-12.414719
+"961","Sleep","Easy
+(1st quartile)",TRUE,TRUE,10,208984,606,-46.87215,-23.836063
+"962","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,14,45968,596,-34.97711,-34.996113
+"963","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,7,684002,49,-69.030914,-20.086313
+"964","Sleep","Easy
+(1st quartile)",FALSE,TRUE,6,927034,85,-72.443214,-15.168772
+"965","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,12,320008,52,-64.98535,-18.908136
+"966","Sleep","Advanced
+(3rd quartile)",FALSE,TRUE,6,644966,38,-77.932976,-1.0562574
+"967","Sleep","Difficult
+(4th quartile)",FALSE,FALSE,13,913074,530,-59.910988,-30.809309
+"968","Sleep","Difficult
+(4th quartile)",FALSE,TRUE,11,39985,172,-59.90773,-25.504004
+"969","Sleep","Easy
+(1st quartile)",TRUE,TRUE,17,634007,444,-51.492702,-29.375353
+"970","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,14,52001,416,-32.337936,-18.149044
+"971","Sleep","Easy
+(1st quartile)",TRUE,TRUE,12,539003,327,-39.278442,-22.25897
+"972","Sleep","Difficult
+(4th quartile)",TRUE,TRUE,12,251969,28,-70.93013,-6.373149
+"973","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,20,613998,396,-52.4304,-27.579237
+"974","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,12,471116,61,-77.23632,-1.8938583
+"975","Sleep","Easy
+(1st quartile)",TRUE,TRUE,9,331005,71,-66.361176,-28.432404
+"976","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,9,724992,459,-45.59461,-39.436363
+"977","Sleep","Easy
+(1st quartile)",TRUE,TRUE,9,211000,66,-55.578873,-1.5338867
+"978","Sleep","Advanced
+(3rd quartile)",FALSE,TRUE,7,476038,997,-19.722855,0.37350616
+"979","Sleep","Intermediate
+(2nd quartile)",FALSE,TRUE,12,974971,714,-47.692173,-34.57203
+"980","Sleep","Easy
+(1st quartile)",TRUE,TRUE,13,172033,457,-43.374474,-35.0737
+"981","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,26,561101,91,-55.451023,15.737754
+"982","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,14,751826,295,-39.366707,-33.448853
+"983","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,4,308261,689,-46.647762,-23.550179
+"984","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,11,637002,45,-78.21237,-16.161972
+"985","Sleep","Difficult
+(4th quartile)",TRUE,TRUE,10,539995,60,-71.42476,-30.282703
+"986","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,9,458005,76,-71.454704,-3.7189364
+"987","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,10,238996,83,-76.1998,-7.718104
+"988","Sleep","Advanced
+(3rd quartile)",FALSE,FALSE,12,904003,62,-71.931015,-5.293493
+"989","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,9,683055,304,-27.421787,-8.999735
+"990","Sleep","Easy
+(1st quartile)",TRUE,TRUE,24,266000,450,-50.02353,-44.56257
+"991","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,11,60956,224,-62.72495,-30.163193
+"992","Basic Neuroscience","Easy
+(1st quartile)",FALSE,TRUE,16,471184,1353,-10.126161,-34.765987
+"993","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,FALSE,10,997058,596,52.06021,17.324202
+"994","Sleep","Difficult
+(4th quartile)",TRUE,TRUE,12,881002,313,-61.10066,-31.724989
+"995","Sleep","Easy
+(1st quartile)",TRUE,TRUE,6,862000,266,-43.109383,-33.851147
+"996","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,19,372998,468,-61.36339,-31.942175
+"997","Sleep","Difficult
+(4th quartile)",FALSE,FALSE,6,971002,227,-62.550293,-33.729454
+"998","Sleep","Difficult
+(4th quartile)",TRUE,FALSE,12,319042,88,-27.026297,19.63071
+"999","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,6,482952,528,-45.94769,-22.723442
+"1000","Sleep","Difficult
+(4th quartile)",TRUE,FALSE,16,772183,1038,-52.044117,-33.94075
+"1001","Sleep","Easy
+(1st quartile)",TRUE,TRUE,15,442439,966,-52.556305,-35.076885
+"1002","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,6,262048,54,-77.61895,-8.274247
+"1003","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,10,426002,85,-71.167305,-4.990468
+"1004","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,15,221989,617,-13.525911,-26.784296
+"1005","Sleep","Advanced
+(3rd quartile)",FALSE,TRUE,6,785511,121,-66.41551,-27.627375
+"1006","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,9,697988,100,-66.05356,-23.3033
+"1007","Sleep","Easy
+(1st quartile)",TRUE,TRUE,17,462985,472,-48.185658,-41.24071
+"1008","Sleep","Easy
+(1st quartile)",TRUE,TRUE,15,522970,476,-39.30134,-33.44442
+"1009","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,5,553000,72,-41.03639,14.429603
+"1010","Sleep","Easy
+(1st quartile)",TRUE,TRUE,6,999999,112,-66.36621,-23.08609
+"1011","Sleep","Easy
+(1st quartile)",TRUE,TRUE,7,721076,397,-49.09117,-43.822086
+"1012","Sleep","Difficult
+(4th quartile)",TRUE,TRUE,12,462928,79,-56.936043,-19.015112
+"1013","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,7,304996,64,-77.3947,-8.371883
+"1014","Sleep","Easy
+(1st quartile)",TRUE,TRUE,13,587312,975,-50.110928,-27.247997
+"1015","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,723945,252,61.36454,-0.24213837
+"1016","Sleep","Difficult
+(4th quartile)",FALSE,TRUE,33,108000,77,-65.33157,-34.06972
+"1017","Sleep","Advanced
+(3rd quartile)",FALSE,TRUE,12,677001,298,-42.829178,-32.755096
+"1018","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,9,664874,431,-47.488705,-34.86402
+"1019","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,16,165998,85,-54.768906,8.796675
+"1020","Sleep","Easy
+(1st quartile)",TRUE,TRUE,6,995033,54,-66.43617,-18.915676
+"1021","Sleep","Difficult
+(4th quartile)",FALSE,FALSE,13,26016,66,-76.999916,-9.167831
+"1022","Sleep","Easy
+(1st quartile)",TRUE,TRUE,6,972996,266,-42.28086,-34.30353
+"1023","Sleep","Difficult
+(4th quartile)",FALSE,FALSE,11,496008,831,-56.147594,-33.075542
+"1024","Sleep","Easy
+(1st quartile)",TRUE,TRUE,6,796952,110,-71.29244,-14.729525
+"1025","Sleep","Difficult
+(4th quartile)",FALSE,TRUE,15,622001,413,-62.071507,-34.21377
+"1026","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,15,858999,541,-17.474539,-28.566242
+"1027","Sleep","Difficult
+(4th quartile)",FALSE,FALSE,6,498995,79,-67.08563,1.6161349
+"1028","Sleep","Difficult
+(4th quartile)",TRUE,TRUE,6,245001,87,-67.318794,-3.339376
+"1029","Sleep","Difficult
+(4th quartile)",TRUE,TRUE,9,818004,78,-76.925545,26.871195
+"1030","Sleep","Easy
+(1st quartile)",FALSE,TRUE,14,859995,483,-35.05605,-34.989033
+"1031","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,8,908027,48,-30.269154,27.654863
+"1032","Sleep","Advanced
+(3rd quartile)",FALSE,TRUE,10,337979,75,-77.2747,-16.390633
+"1033","Sleep","Advanced
+(3rd quartile)",FALSE,FALSE,12,68993,398,-56.153587,-33.060715
+"1034","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,8,315033,373,-43.08114,-34.039654
+"1035","Sleep","Difficult
+(4th quartile)",FALSE,TRUE,11,621016,422,-17.414404,1.5953642
+"1036","Sleep","Advanced
+(3rd quartile)",FALSE,TRUE,26,651953,180,-65.64659,-7.050469
+"1037","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,21,532403,745,46.37861,-52.895058
+"1038","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,8,154999,93,-80.11901,-15.031242
+"1039","Sleep","Intermediate
+(2nd quartile)",FALSE,TRUE,12,896032,74,-76.99651,26.788845
+"1040","Sleep","Easy
+(1st quartile)",TRUE,TRUE,17,335972,599,-51.218365,-41.026844
+"1041","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,14,763996,401,-49.82854,-30.05106
+"1042","Sleep","Difficult
+(4th quartile)",FALSE,TRUE,13,618050,725,-48.67392,-37.95731
+"1043","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,7,835002,320,-21.423075,-5.589399
+"1044","Sleep","Advanced
+(3rd quartile)",FALSE,TRUE,6,523013,135,-66.01726,-10.614572
+"1045","Sleep","Advanced
+(3rd quartile)",TRUE,FALSE,21,596003,624,-59.637463,-30.61524
+"1046","Sleep","Easy
+(1st quartile)",TRUE,TRUE,10,493968,48,-69.43296,47.407246
+"1047","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,8,369000,75,-69.602425,-5.4560966
+"1048","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,17,967578,432,-50.411438,-31.673485
+"1049","Sleep","Easy
+(1st quartile)",TRUE,TRUE,14,119000,238,-49.55414,-30.53398
+"1050","Sleep","Advanced
+(3rd quartile)",TRUE,TRUE,15,516036,105,-80.160095,-8.535294
+"1051","Sleep","Easy
+(1st quartile)",TRUE,TRUE,4,278012,56,-73.32376,38.09878
+"1052","Sleep","Easy
+(1st quartile)",TRUE,TRUE,12,6984,76,-70.357544,-8.421363
+"1053","Sleep","Easy
+(1st quartile)",TRUE,TRUE,11,159972,91,-64.94839,-17.136171
+"1054","Sleep","Intermediate
+(2nd quartile)",TRUE,TRUE,8,902033,75,-71.06117,-19.915571
+"1055","Sleep","Easy
+(1st quartile)",FALSE,TRUE,15,51011,1329,75.831665,27.069427
+"1056","Trauma","Easy
+(1st quartile)",TRUE,TRUE,10,342984,989,7.628761,41.796185
+"1057","Trauma","Advanced
+(3rd quartile)",TRUE,TRUE,5,908010,73,-32.761078,7.7701783
+"1058","Trauma","Difficult
+(4th quartile)",TRUE,TRUE,13,196764,386,66.24835,14.038832
+"1059","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,10,129218,525,-48.120342,-25.37285
+"1060","Trauma","Intermediate
+(2nd quartile)",TRUE,TRUE,11,46031,684,24.28155,-36.97478
+"1061","Trauma","Difficult
+(4th quartile)",FALSE,TRUE,12,750001,316,37.124115,-6.213867
+"1062","Trauma","Difficult
+(4th quartile)",FALSE,TRUE,40,440967,77,-51.35377,-3.6923232
+"1063","Trauma","Intermediate
+(2nd quartile)",TRUE,TRUE,15,188001,295,64.58989,-33.958057
+"1064","Trauma","Intermediate
+(2nd quartile)",TRUE,TRUE,6,665001,71,-50.51269,-3.5976505
+"1065","Trauma","Intermediate
+(2nd quartile)",TRUE,TRUE,11,346001,311,25.663834,-32.614983
+"1066","Trauma","Intermediate
+(2nd quartile)",FALSE,TRUE,8,845996,476,28.734806,-18.762941
+"1067","Trauma","Easy
+(1st quartile)",TRUE,TRUE,14,901066,242,19.825006,-44.08569
+"1068","Trauma","Intermediate
+(2nd quartile)",FALSE,TRUE,10,537572,904,-12.071457,-40.682102
+"1069","Trauma","Easy
+(1st quartile)",TRUE,TRUE,17,818001,154,16.589012,-38.969696
+"1070","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,20,14103,356,-16.062193,-36.150307
+"1071","Trauma","Difficult
+(4th quartile)",TRUE,TRUE,6,690005,83,-25.714052,33.960163
+"1072","Trauma","Difficult
+(4th quartile)",FALSE,FALSE,11,110067,91,-26.183443,34.731136
+"1073","Trauma","Easy
+(1st quartile)",TRUE,TRUE,8,357945,150,19.719463,-45.042686
+"1074","Trauma","Intermediate
+(2nd quartile)",TRUE,TRUE,7,32002,184,25.087826,-31.181229
+"1075","Trauma","Advanced
+(3rd quartile)",FALSE,TRUE,7,406029,61,-25.31227,33.33522
+"1076","Trauma","Easy
+(1st quartile)",TRUE,TRUE,9,309034,427,71.05718,-16.318344
+"1077","Trauma","Difficult
+(4th quartile)",TRUE,TRUE,8,339952,245,1.3345132,-9.8543215
+"1078","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,184049,96,-31.304321,2.730441
+"1079","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,756695,52,24.950445,-17.12711
+"1080","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,TRUE,11,478968,846,16.162422,27.677109
+"1081","Basic Neuroscience","Intermediate
+(2nd quartile)",FALSE,TRUE,15,934986,235,78.90946,-5.9610343
+"1082","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,691482,380,-16.642443,-23.476965
+"1083","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,954383,66,-42.794155,-0.92733604
+"1084","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,352465,117,-65.305016,6.8131166
+"1085","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,8,346833,339,-61.23566,-34.21642
+"1086","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,42,520996,346,-19.279867,-7.064619
+"1087","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,40,513280,640,45.40485,-58.752964
+"1088","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,11,674566,153,31.243847,24.682976
+"1089","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,15,256541,89,-21.454926,26.356277
+"1090","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,12,182553,463,-14.896267,-41.18237
+"1091","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,16,98584,353,-5.904065,-23.939636
+"1092","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,TRUE,12,514647,259,29.448078,-35.32566
+"1093","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,13,9873,907,-9.004087,-29.299967
+"1094","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,383139,262,-3.370283,-59.31992
+"1095","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,37,892142,455,-1.2903075,-0.34256643
+"1096","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,16,392155,98,-70.78807,11.356094
+"1097","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,50,499590,795,-8.496478,-12.043652
+"1098","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,18,169013,431,-10.560272,-14.095366
+"1099","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,377623,247,31.21336,-14.790044
+"1100","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,6,607000,105,-53.32706,6.049002
+"1101","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,674982,673,-8.831933,-7.9517345
+"1102","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,7,705234,613,46.19037,-21.597977
+"1103","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,13,150067,798,-13.493171,-23.961584
+"1104","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,40,941354,418,-52.844913,-32.561188
+"1105","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,15,380659,415,-17.96899,-31.641253
+"1106","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,10,69000,48,-52.60643,-54.545956
+"1107","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,10001,278,-21.271673,-14.195373
+"1108","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,9,965038,85,-72.35082,-14.983574
+"1109","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,16,632042,70,-73.417,13.4395895
+"1110","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,11,60063,645,-5.9759297,-38.234276
+"1111","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,12,965198,70,-70.17315,12.442291
+"1112","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,887727,567,-31.712242,-28.144632
+"1113","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,11,875259,613,46.190838,-21.596394
+"1114","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,14,582299,649,-9.80727,-7.779695
+"1115","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,931954,558,-17.45548,-27.90799
+"1116","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,12,340795,400,-31.3338,-42.34074
+"1117","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,630083,57,-6.8365507,48.79463
+"1118","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,15,909998,235,-6.5279903,-48.49333
+"1119","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,323044,80,-18.280483,26.765087
+"1120","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,9,566129,602,-9.451389,-17.341017
+"1121","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,100149,69,-31.3332,4.019629
+"1122","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,12,87872,279,31.166018,24.790379
+"1123","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,668096,416,-6.2769794,-16.443398
+"1124","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,13,580469,60,-60.010937,36.29216
+"1125","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,11,827034,178,-42.143215,-52.69357
+"1126","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,11,560753,491,-11.224572,-15.370899
+"1127","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,11,360597,1272,-51.17768,-34.044376
+"1128","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,24,602205,763,38.487293,-48.643673
+"1129","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,5,609639,98,-77.5823,52.772804
+"1130","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,458677,86,-60.645134,39.955715
+"1131","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,799512,69,-22.086565,16.757095
+"1132","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,19,266572,913,-9.003388,-29.347755
+"1133","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,380359,382,27.414343,-4.6128016
+"1134","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,10,199066,101,-48.403534,10.36376
+"1135","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,13,711095,304,24.938118,-6.819875
+"1136","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,173798,457,-6.283049,-16.468767
+"1137","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,17,379291,110,-52.99348,13.402885
+"1138","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,4,987020,120,-79.69269,-11.028228
+"1139","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,230047,1083,-13.830686,-27.665922
+"1140","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,5,272999,69,-37.345196,9.897668
+"1141","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,853489,443,56.617825,9.449005
+"1142","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,10,545046,80,-24.11181,-29.79499
+"1143","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,22,255000,708,5.283837,-39.20977
+"1144","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,6,824896,50,-51.2266,21.019293
+"1145","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,34,476260,87,-60.75832,39.725338
+"1146","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,6,584413,41,-40.46165,70.748795
+"1147","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,5,398134,547,-10.494888,4.5040507
+"1148","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,717645,113,-32.836647,14.225879
+"1149","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,218522,64,-4.8128505,52.772816
+"1150","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,6,434002,470,-6.721232,-4.350491
+"1151","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,4,184080,86,-40.155514,9.05293
+"1152","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,5,70218,72,-74.99451,46.09911
+"1153","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,15,622184,671,8.109296,-39.495132
+"1154","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,9,404168,622,-10.040313,-20.246607
+"1155","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,FALSE,11,986005,80,-18.79933,16.533525
+"1156","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,5,163992,109,-59.873924,-1.3373735
+"1157","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,7,691927,48,-52.519215,-54.30354
+"1158","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,428002,72,-27.985012,5.1411133
+"1159","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,4,577048,177,46.52404,33.162888
+"1160","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,11,71259,525,-14.811766,-26.905382
+"1161","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,113241,162,51.545612,-37.97851
+"1162","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,10,573112,345,36.1968,10.919363
+"1163","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,183045,337,-7.8145795,-51.132683
+"1164","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,19,480440,309,-26.405218,-35.996292
+"1165","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,376950,127,6.865405,-54.91839
+"1166","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,5,191333,72,-21.40263,25.8451
+"1167","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,41,769593,695,-9.452814,-2.36661
+"1168","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,10,980943,83,-51.1303,42.576584
+"1169","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,13,163029,284,11.359143,45.625153
+"1170","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,281405,402,-13.181777,-13.989025
+"1171","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,14,566952,821,-33.252396,-46.31123
+"1172","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,992005,97,-28.195936,5.3646073
+"1173","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,4,396995,611,1.8377459,-14.6189
+"1174","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,13,160037,67,-53.393356,10.314057
+"1175","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,705014,709,5.1958127,-25.655159
+"1176","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,FALSE,10,661011,881,62.277126,1.0269325
+"1177","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,919051,476,0.14932358,-13.5593815
+"1178","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,361015,159,-60.804173,-1.5624164
+"1179","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,TRUE,9,996605,348,62.526566,35.535522
+"1180","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,11,846008,271,3.548234,62.722843
+"1181","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,447131,201,-42.113804,-1.7315376
+"1182","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,11,416033,365,41.743908,-25.735754
+"1183","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,10,927008,203,15.477927,40.41127
+"1184","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,67019,98,-77.45431,52.479546
+"1185","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,10,902003,710,62.01601,6.7049637
+"1186","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,11,553949,674,-46.804764,-30.684898
+"1187","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,572001,309,31.419306,-16.420866
+"1188","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,11,79121,86,-51.778362,1.7714216
+"1189","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,4,758249,140,-6.455811,-14.976568
+"1190","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,TRUE,5,380775,241,-48.005337,55.14445
+"1191","Basic Neuroscience","Intermediate
+(2nd quartile)",FALSE,TRUE,19,124371,790,37.394863,-50.15737
+"1192","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,7,239070,59,-24.670258,11.749153
+"1193","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,10,76042,198,42.56213,-18.93053
+"1194","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,5,509037,119,-61.420017,5.593155
+"1195","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,516972,208,-30.280458,-21.945465
+"1196","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,8,637637,92,-25.853357,-31.17599
+"1197","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,517973,257,-40.99274,-16.197327
+"1198","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,19,780216,701,-10.551392,-16.142792
+"1199","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,35,247042,95,-53.75807,5.311772
+"1200","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,4,708164,880,-13.6112385,-24.822495
+"1201","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,5,540056,126,-79.06779,-18.102547
+"1202","Basic Neuroscience","Intermediate
+(2nd quartile)",FALSE,TRUE,12,934159,790,37.394505,-50.157196
+"1203","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,6,968011,69,-37.9244,49.214607
+"1204","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,4,974996,76,-81.00758,-12.409866
+"1205","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,8,986004,248,-44.99836,-21.897316
+"1206","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,10,82002,534,68.32871,-16.70094
+"1207","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,4,707026,135,-40.96443,-2.7960536
+"1208","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,6,975008,82,-41.40193,-11.468903
+"1209","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,11,667069,126,-45.356506,-13.844226
+"1210","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,15,935074,72,-44.904305,-15.121263
+"1211","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,23,151934,148,-46.70685,-6.9736285
+"1212","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,6,433965,69,-62.13736,5.8414316
+"1213","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,17,315838,453,43.632698,-18.57736
+"1214","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,FALSE,10,160886,535,-9.264768,-39.02404
+"1215","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,9,111000,34,-62.166943,13.499628
+"1216","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,7,318659,65,-56.156338,-4.9895453
+"1217","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,12,826593,123,-58.370663,5.37766
+"1218","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,11,520037,77,-13.289879,46.273792
+"1219","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,27,119787,82,-51.282738,11.534356
+"1220","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,8,769998,305,-40.99325,-16.348251
+"1221","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,FALSE,8,28995,111,14.141449,-68.75769
+"1222","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,8,931030,375,79.35171,20.367342
+"1223","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,13,483451,74,-62.907757,7.4871926
+"1224","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,11,830869,69,-56.161434,29.28753
+"1225","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,701011,56,-42.493473,-12.569896
+"1226","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,19,827057,101,-69.349266,15.741466
+"1227","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,13,79486,75,-7.830879,48.551254
+"1228","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,7,346648,47,-26.671236,18.24839
+"1229","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,417139,148,-21.952671,-40.00982
+"1230","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,8,848999,345,-36.495487,-40.469482
+"1231","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,7,501761,97,-25.744978,-31.330889
+"1232","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,36,626098,117,-56.287632,-3.5705056
+"1233","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,229579,111,-44.955036,11.495819
+"1234","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,5,250063,183,37.787956,-13.468001
+"1235","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,TRUE,9,76657,165,-59.01008,46.81804
+"1236","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,FALSE,38,324760,127,-54.223347,3.7267315
+"1237","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,9,125100,113,-70.55139,-29.697073
+"1238","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,14,547553,91,-50.177677,11.936457
+"1239","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,9,679966,118,-26.779915,-20.805655
+"1240","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,14,548035,134,-21.246143,-39.96166
+"1241","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,7,151966,71,-41.940315,0.83580256
+"1242","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,9,869136,60,-71.42605,-30.28298
+"1243","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,13,548968,97,-70.69005,21.212027
+"1244","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,14,581337,95,-56.855896,-3.8594654
+"1245","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,TRUE,23,154848,165,-59.01272,46.81823
+"1246","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,7,497949,111,-6.570365,50.165115
+"1247","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,FALSE,8,330516,354,-31.07331,-27.178846
+"1248","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,FALSE,4,577997,77,-73.633064,45.990093
+"1249","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,FALSE,6,132071,70,-66.96062,-22.454412
+"1250","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,6,521547,65,-65.547745,-33.488747
+"1251","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,4,444970,90,-35.07189,21.573776
+"1252","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,12,612514,86,-70.956375,19.211138
+"1253","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,23,697075,1287,67.87995,2.5654252
+"1254","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,9,617107,86,-56.58013,15.199641
+"1255","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,7,153144,556,-30.1548,-42.947456
+"1256","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,FALSE,8,19000,1100,45.92405,-29.476725
+"1257","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,16,436016,427,32.59309,-16.744688
+"1258","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,6,329034,181,-61.96791,-35.329926
+"1259","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,13,350050,69,-40.189457,16.360582
+"1260","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,9,241893,936,-38.306957,-33.1709
+"1261","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,10,154017,63,-47.718967,15.636938
+"1262","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,809037,121,-33.248856,-10.878141
+"1263","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,7,558005,105,-74.00259,28.519087
+"1264","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,220992,244,19.670341,37.685757
+"1265","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,12,429049,564,-7.968553,-20.432692
+"1266","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,915956,55,-23.783804,-28.588606
+"1267","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,8,997004,58,-52.47792,21.837742
+"1268","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,13,214019,423,16.29792,-33.85249
+"1269","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,FALSE,8,349049,527,-8.475289,-11.835624
+"1270","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,5,376016,102,-74.17859,47.412838
+"1271","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,4,675952,123,-50.06639,12.478253
+"1272","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,6,881001,67,4.440627,-66.27611
+"1273","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,4,877999,261,-53.843502,-28.776482
+"1274","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,7,57009,542,-9.281617,-22.745035
+"1275","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,219012,60,-40.73232,15.178679
+"1276","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,FALSE,6,258008,387,-13.048873,-12.21752
+"1277","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,8,987105,87,-61.82775,6.312585
+"1278","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,TRUE,34,556001,575,49.18375,-45.046482
+"1279","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,8,396841,347,-10.171876,-16.441092
+"1280","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,9,23995,521,6.821928,-36.155697
+"1281","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,FALSE,7,501033,328,33.996872,17.125319
+"1282","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,9,318181,786,36.569515,-14.816072
+"1283","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,6,571095,460,-17.751097,-21.965302
+"1284","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,4,331020,127,-70.76303,-23.9339
+"1285","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,317121,249,-33.29906,-13.1370945
+"1286","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,FALSE,9,574954,545,4.659793,-35.444397
+"1287","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,5,975787,64,-45.106407,-14.477051
+"1288","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,7,682047,107,-27.164574,-3.0677896
+"1289","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,TRUE,9,429998,575,49.413937,-45.10873
+"1290","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,5,124954,107,-27.164463,-3.0677414
+"1291","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,5,538637,47,-46.163635,1.5492281
+"1292","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,7,714102,90,-45.30474,9.840433
+"1293","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,13,862970,82,-54.98937,6.709054
+"1294","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,8,907340,107,-72.220024,7.293724
+"1295","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,12,380005,460,-17.750702,-21.965965
+"1296","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,7,485043,102,-25.066343,10.334016
+"1297","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,FALSE,8,749980,164,10.353404,62.390026
+"1298","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,5,504108,180,-4.038814,52.94738
+"1299","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,7,525956,236,-5.033106,23.745718
+"1300","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,10,377738,109,-68.89177,47.171307
+"1301","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,12,567000,1004,66.83348,-31.73867
+"1302","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,7,741001,207,-40.799675,-17.664438
+"1303","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,12,505614,102,-55.63659,7.004628
+"1304","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,309552,580,21.383522,50.124767
+"1305","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,5,865073,76,-24.018833,-34.97121
+"1306","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,53,626287,383,-12.93585,-22.705997
+"1307","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,242371,317,-42.533134,-20.152754
+"1308","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,11,693010,549,30.047672,-14.09155
+"1309","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,8,915002,309,-26.468372,-18.205801
+"1310","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,FALSE,6,72668,172,0.89060295,16.16716
+"1311","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,705019,56,-42.480698,-12.491129
+"1312","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,FALSE,8,422003,297,52.79003,-18.4974
+"1313","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,479075,417,-52.207535,-10.644342
+"1314","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,6,72054,99,-49.615986,12.572786
+"1315","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,10,748267,711,1.1922342,16.137901
+"1316","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,10,608045,57,-56.146843,16.632582
+"1317","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,5,370952,47,-79.14297,-7.9989486
+"1318","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,9,437036,278,-21.870955,-33.83183
+"1319","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,33963,136,-51.516415,13.8376255
+"1320","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,12,132325,537,-13.244385,-31.744322
+"1321","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,8,912948,376,-22.706594,7.6043835
+"1322","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,10,64091,703,54.460648,-18.345213
+"1323","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,24,901998,834,35.833614,-30.355568
+"1324","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,7,177439,416,-15.446549,-40.64471
+"1325","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,5,249623,96,-34.167385,-10.928921
+"1326","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,8,877993,238,-23.509481,9.190572
+"1327","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,8,80174,262,32.9037,-15.298279
+"1328","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,14,15149,1354,-52.06169,-30.400185
+"1329","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,12,70086,356,-63.195824,-32.708633
+"1330","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,4,290001,59,-73.85756,-16.246656
+"1331","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,FALSE,6,574078,66,-14.468769,39.076485
+"1332","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,746997,76,-48.79568,8.788503
+"1333","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,4,108132,99,-54.22777,15.811783
+"1334","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,TRUE,46,838610,200,55.9866,-18.708948
+"1335","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,9,488002,144,-46.33322,-7.1051064
+"1336","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,350999,89,-41.867107,17.338743
+"1337","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,12,258313,150,-52.233,-10.597912
+"1338","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,13,722820,49,-56.58693,18.782942
+"1339","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,7,377200,100,-39.525475,-2.4093556
+"1340","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,111287,179,-28.718605,-40.6312
+"1341","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,FALSE,4,218537,100,-60.794178,4.1080136
+"1342","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,23,741638,59,-52.00963,11.483437
+"1343","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,11,761109,601,3.7763658,-36.852768
+"1344","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,6,53666,916,4.356524,18.591846
+"1345","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,10,970913,200,55.913933,-18.908445
+"1346","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,5,57965,98,-80.597275,-6.988796
+"1347","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,12,792999,63,-51.688858,44.951725
+"1348","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,FALSE,11,961004,114,-55.29136,-3.4039667
+"1349","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,6,805071,52,-46.996387,16.322674
+"1350","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,39,678995,98,-56.440903,6.3180404
+"1351","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,6,906013,142,23.33819,-29.841885
+"1352","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,892996,56,-39.978935,16.546505
+"1353","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,11,586132,92,-32.807384,14.3349285
+"1354","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,11,80122,126,-77.443535,-19.401949
+"1355","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,8,200296,697,5.1631856,-35.28084
+"1356","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,5,11947,100,-70.39228,50.82015
+"1357","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,9,865067,218,-26.31414,-35.93375
+"1358","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,4,408198,128,-70.78216,-23.934164
+"1359","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,5,219017,149,-54.163986,-36.7777
+"1360","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,751740,92,-64.780754,7.4475365
+"1361","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,14,16000,73,-57.348858,8.904556
+"1362","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,6,3441,209,-44.501396,-16.615307
+"1363","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,4,736039,126,-58.035545,-11.475266
+"1364","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,624621,273,-29.267376,-18.320007
+"1365","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,29,76039,97,-25.912876,9.322394
+"1366","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,603002,144,-44.566956,-21.987589
+"1367","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,FALSE,9,350001,221,13.923123,-65.55607
+"1368","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,13,754032,684,-34.362267,-18.706001
+"1369","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,7,338537,45,-39.13387,-2.2241287
+"1370","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,568062,95,-70.30401,15.487494
+"1371","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,11,353942,610,-1.1229086,-23.018217
+"1372","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,11,987997,106,-30.75306,5.699881
+"1373","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,7,340001,75,-65.80993,6.527354
+"1374","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,16,592111,872,-4.616296,-20.879574
+"1375","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,8,496801,33,-57.867928,-4.8084764
+"1376","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,11,415268,94,-69.43194,46.00476
+"1377","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,19,787363,55,-78.65428,-7.1685543
+"1378","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,6,290001,91,-74.75642,32.987194
+"1379","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,918027,1042,-51.687984,-30.184952
+"1380","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,8,165969,110,-63.841934,39.178936
+"1381","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,FALSE,11,198051,667,6.845265,59.992085
+"1382","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,7,845987,94,-40.874714,6.269309
+"1383","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,4,897962,233,-42.9139,-22.652004
+"1384","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,9,171326,63,-24.117168,14.642379
+"1385","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,31,751690,92,-56.109043,4.407713
+"1386","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,466999,19,-65.39999,-35.3419
+"1387","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,41,499119,682,23.227913,-55.94011
+"1388","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,36,704675,92,-32.515583,26.016865
+"1389","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,FALSE,8,295034,518,19.550598,47.536915
+"1390","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,8,482969,493,-21.771606,-14.242186
+"1391","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,9,218041,57,-51.548447,2.02924
+"1392","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,4,746999,95,-71.08429,10.753732
+"1393","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,16,513110,423,22.839697,-29.311817
+"1394","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,3,844516,78,-55.11586,15.694285
+"1395","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,9,264018,302,-18.984169,-27.856606
+"1396","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,128000,292,-23.5568,-34.634586
+"1397","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,8,398000,640,54.830173,16.90124
+"1398","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,7,27000,101,-57.956806,24.250507
+"1399","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,9,918222,267,-21.418913,-15.02701
+"1400","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,5,326971,82,-31.93509,67.94168
+"1401","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,16,435005,382,-32.78917,-28.49251
+"1402","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,612082,98,-64.35109,43.8021
+"1403","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,9,318969,359,-26.866505,-19.266125
+"1404","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,8,838003,74,-11.975332,17.973057
+"1405","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,10,515992,60,-39.886806,33.142902
+"1406","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,39,727180,55,-69.11029,11.422425
+"1407","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,7,226942,316,-13.97913,-50.291935
+"1408","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,8,713172,416,-15.69383,-40.28983
+"1409","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,5,855027,154,-27.63384,-24.006989
+"1410","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,136288,69,-30.985193,5.121157
+"1411","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,TRUE,8,720757,398,-6.9228473,0.6040351
+"1412","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,12,568996,82,-31.935354,67.94072
+"1413","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,157995,381,-49.925537,-34.80787
+"1414","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,21,137362,72,-67.753654,-20.443495
+"1415","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,25,303343,1351,-51.38985,-34.106693
+"1416","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,766273,658,-19.249296,-40.61154
+"1417","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,11,238117,526,-15.354617,-38.10133
+"1418","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,7,238914,442,7.566447,-37.837654
+"1419","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,7,519788,251,7.4805593,56.917606
+"1420","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,7,228966,70,-79.62075,-5.4755344
+"1421","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,FALSE,16,897032,174,-42.00453,-51.822212
+"1422","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,8,167995,75,-71.05999,-19.915401
+"1423","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,14,691036,79,-7.1257033,53.43754
+"1424","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,997099,66,-58.146534,-10.4422
+"1425","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,4,946275,23,-73.33307,38.065
+"1426","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,4,23038,78,-11.218038,17.630924
+"1427","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,14,185080,54,-78.14067,-14.623361
+"1428","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,7,958046,94,-79.25805,-9.891625
+"1429","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,8,334523,901,-2.5516236,-13.251941
+"1430","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,757005,90,-65.343636,46.00751
+"1431","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,9,985746,115,-33.09166,-29.710299
+"1432","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,13968,91,-74.77961,32.77584
+"1433","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,9,569032,492,-15.8197365,-34.746975
+"1434","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,14,87963,414,63.653275,19.931938
+"1435","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,12,975051,240,-17.307322,9.932998
+"1436","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,14,996553,138,-17.606668,-34.31144
+"1437","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,6,217004,63,-53.4446,2.8286707
+"1438","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,11,258030,472,4.000886,-38.212883
+"1439","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,13,736022,40,-52.551155,22.78151
+"1440","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,23,475944,963,-37.671124,-40.11061
+"1441","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,9,744061,65,-64.12762,47.842133
+"1442","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,11,955023,65,-47.900585,15.359924
+"1443","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,789039,366,-7.749412,-53.449905
+"1444","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,9,270963,479,-52.19775,-35.92844
+"1445","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,12,916745,754,24.03628,-35.432705
+"1446","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,FALSE,7,483031,82,-63.16492,4.865835
+"1447","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,715012,559,-14.912069,-38.432068
+"1448","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,5,639959,51,-78.76511,-7.1627455
+"1449","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,11,176075,520,-7.265749,-35.466232
+"1450","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,9,374997,414,-6.3207197,-38.96767
+"1451","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,463372,102,-34.519344,21.461344
+"1452","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,39,649185,293,45.899555,53.475044
+"1453","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,9,404003,97,-45.783222,43.62118
+"1454","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,9,889918,374,7.4657583,4.931363
+"1455","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,3,904963,72,-74.04562,4.7186384
+"1456","Basic Neuroscience","Intermediate
+(2nd quartile)",FALSE,FALSE,11,924004,749,43.29052,-30.755943
+"1457","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,17,157079,113,-42.022312,10.388251
+"1458","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,665463,66,-66.22564,47.24492
+"1459","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,4,466224,267,-12.331198,-16.626085
+"1460","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,6,882229,319,-3.398616,-40.578598
+"1461","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,5,395091,137,-7.520684,33.02611
+"1462","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,972897,414,7.5296836,4.6398067
+"1463","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,627169,82,-61.76026,41.23454
+"1464","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,994517,363,-7.005886,-11.663995
+"1465","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,6,270016,196,-29.894808,26.4638
+"1466","Basic Neuroscience","Intermediate
+(2nd quartile)",FALSE,FALSE,21,817587,749,43.290672,-30.753633
+"1467","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,8,779071,815,3.8584166,-38.021282
+"1468","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,13,763005,772,-50.510822,-26.318077
+"1469","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,492038,67,-53.234344,34.954998
+"1470","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,868902,285,1.2943522,-36.489944
+"1471","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,18,908099,467,-16.379972,-28.551548
+"1472","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,13,818878,606,7.981627,-39.323082
+"1473","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,5,934999,65,-78.303986,-17.730476
+"1474","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,320045,252,2.2997832,50.072857
+"1475","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",TRUE,TRUE,11,332000,122,-40.24002,9.793597
+"1476","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,16,706152,666,-31.858917,-28.848633
+"1477","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,17,932569,113,-53.87548,44.278473
+"1478","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,944986,274,-21.53141,-46.2943
+"1479","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,8,388137,115,-44.36637,9.309647
+"1480","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,14,336257,504,-38.07013,-22.666782
+"1481","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,5,699952,116,-33.439087,-6.7053666
+"1482","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,838999,286,-21.5313,-46.297966
+"1483","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,675060,93,-33.663673,-11.35796
+"1484","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,8,247942,622,0.963837,50.821617
+"1485","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,11,84053,101,-72.114174,13.066048
+"1486","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,958951,61,-77.23603,-1.8941122
+"1487","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,5,32027,282,-4.583075,23.375519
+"1488","Basic Neuroscience","Intermediate
+(2nd quartile)",FALSE,TRUE,10,167038,60,-46.19659,45.532475
+"1489","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,981974,88,-56.41247,7.3420434
+"1490","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,19,639622,1094,48.0742,-11.199262
+"1491","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,9,714022,327,-9.67453,-48.12706
+"1492","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,87550,133,-46.08903,-53.439396
+"1493","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,7,859971,67,-48.976425,6.321073
+"1494","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,925161,512,-13.28465,-31.681488
+"1495","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,5,928032,57,32.174767,23.32404
+"1496","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,5,676065,102,-21.25411,11.286042
+"1497","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,4,465832,227,-52.74346,-9.4853
+"1498","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,99002,397,-2.1874344,25.669918
+"1499","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,6,230997,743,12.158474,-26.223122
+"1500","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,15,759226,408,21.928358,-28.499228
+"1501","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,5,846997,353,-16.564104,-14.795795
+"1502","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,11,741067,277,45.899006,53.47183
+"1503","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,TRUE,12,69156,702,-7.8210425,-18.4624
+"1504","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,4,867000,164,10.029331,25.313164
+"1505","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,7,815204,88,-51.58595,3.1855633
+"1506","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,10,292953,908,-31.045362,-18.327295
+"1507","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,5,240035,150,-47.368027,-6.6161427
+"1508","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,14,117968,351,7.4988365,47.10213
+"1509","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,5,715043,189,-20.742952,11.050073
+"1510","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,27,9851,743,12.158283,-26.223083
+"1511","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,7,457050,114,-40.248726,-2.94231
+"1512","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,TRUE,12,179965,615,-3.5677755,-18.566465
+"1513","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,10,887051,1009,-51.812885,-28.445496
+"1514","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,8,52948,295,-31.296217,-40.21176
+"1515","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,FALSE,10,254008,112,-54.71815,-3.0632837
+"1516","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,9,390002,400,7.4543147,5.020095
+"1517","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,6,912998,265,36.38824,-13.547699
+"1518","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",FALSE,TRUE,15,618999,780,2.5269482,-37.337887
+"1519","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,532036,281,33.051613,-14.608456
+"1520","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,15,402963,723,38.209248,5.9026284
+"1521","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,8,96346,54,-39.505653,70.01617
+"1522","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,5,910037,358,15.816558,-43.273277
+"1523","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",FALSE,TRUE,4,614998,79,-11.199459,17.62569
+"1524","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,6,372048,788,7.5686936,45.29028
+"1525","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,FALSE,5,259956,283,16.279778,-35.33858
+"1526","Behavioral, Cognitive, Psych","Difficult
+(4th quartile)",FALSE,FALSE,11,240995,353,-26.718096,-19.108238
+"1527","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,4,744001,68,-49.756992,18.290428
+"1528","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,8,723999,468,3.6187832,-31.839844
+"1529","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,7,994001,111,-44.367867,9.286787
+"1530","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,5,120000,279,-13.832216,-29.192207
+"1531","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,14,286042,211,-3.67949,2.5955124
+"1532","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",FALSE,FALSE,7,786965,158,38.022438,-12.926709
+"1533","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,TRUE,7,1968,358,15.816369,-43.273067
+"1534","Behavioral, Cognitive, Psych","Easy
+(1st quartile)",TRUE,TRUE,10,473998,198,-40.39835,-17.141773
+"1535","Behavioral, Cognitive, Psych","Advanced
+(3rd quartile)",TRUE,TRUE,3,519995,71,-77.54895,-19.314087
+"1536","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,915036,452,-30.542252,-29.499043
+"1537","Behavioral, Cognitive, Psych","Intermediate
+(2nd quartile)",TRUE,TRUE,10,895962,203,-33.427967,-43.90917
+"1538","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,FALSE,8,258001,308,32.823635,-13.878786
+"1539","Cerebrovascular","Easy
+(1st quartile)",TRUE,FALSE,8,929006,260,50.838005,-28.336267
+"1540","Cerebrovascular","Advanced
+(3rd quartile)",FALSE,TRUE,4,526993,320,39.342533,-30.176266
+"1541","Cerebrovascular","Advanced
+(3rd quartile)",FALSE,TRUE,9,606049,503,39.987423,-30.465185
+"1542","Cerebrovascular","Difficult
+(4th quartile)",TRUE,TRUE,14,438947,1923,21.765862,-16.419115
+"1543","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,10,509998,750,50.05849,-27.441645
+"1544","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,6,584999,75,11.780987,-51.30542
+"1545","Cerebrovascular","Easy
+(1st quartile)",FALSE,TRUE,6,252000,154,37.206486,-21.964603
+"1546","Cerebrovascular","Advanced
+(3rd quartile)",FALSE,TRUE,9,135001,448,69.87057,19.524078
+"1547","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,9,54005,318,35.80947,15.71878
+"1548","Cerebrovascular","Easy
+(1st quartile)",FALSE,TRUE,42,694998,535,31.362772,-29.884365
+"1549","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,8,710996,574,21.745218,-34.740486
+"1550","Cerebrovascular","Difficult
+(4th quartile)",FALSE,TRUE,6,63037,248,29.626263,-39.86988
+"1551","Cerebrovascular","Advanced
+(3rd quartile)",FALSE,FALSE,12,687969,1003,52.110912,-30.221127
+"1552","Cerebrovascular","Easy
+(1st quartile)",FALSE,TRUE,5,525997,551,37.066956,-28.150593
+"1553","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,12,862998,334,42.916992,-14.880974
+"1554","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,10,581999,81,-47.033417,61.738472
+"1555","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,TRUE,12,754002,1080,-7.996268,-34.92552
+"1556","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,12,468001,680,35.235016,-45.127457
+"1557","Cerebrovascular","Difficult
+(4th quartile)",FALSE,FALSE,11,133032,1100,45.95752,-29.500645
+"1558","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,20,417001,166,31.297693,-38.763866
+"1559","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,7,292966,597,37.74006,5.12743
+"1560","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,7,514033,255,37.284245,-16.582346
+"1561","Cerebrovascular","Difficult
+(4th quartile)",FALSE,FALSE,7,82968,312,39.73901,-24.912502
+"1562","Cerebrovascular","Advanced
+(3rd quartile)",FALSE,TRUE,6,165999,558,-2.8492732,-12.748504
+"1563","Cerebrovascular","Intermediate
+(2nd quartile)",FALSE,TRUE,5,290000,111,-43.231915,4.3401732
+"1564","Cerebrovascular","Difficult
+(4th quartile)",TRUE,FALSE,17,921053,96,11.068717,-51.830025
+"1565","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,6,845980,107,-44.93194,65.88197
+"1566","Basic Neuroscience","Easy
+(1st quartile)",FALSE,TRUE,5,350046,21,-40.434837,72.07623
+"1567","Cerebrovascular","Difficult
+(4th quartile)",TRUE,TRUE,7,97002,348,3.9012563,-19.655592
+"1568","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,25,424000,808,43.840496,-33.714474
+"1569","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,6,82968,272,16.190853,-27.171118
+"1570","Cerebrovascular","Advanced
+(3rd quartile)",FALSE,FALSE,7,61000,540,33.325603,-41.730156
+"1571","Cerebrovascular","Difficult
+(4th quartile)",FALSE,TRUE,5,53004,485,31.695408,-42.156406
+"1572","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,12,947995,670,44.360775,-34.259827
+"1573","Cerebrovascular","Difficult
+(4th quartile)",FALSE,FALSE,6,662048,332,30.994247,10.544547
+"1574","Cerebrovascular","Easy
+(1st quartile)",FALSE,TRUE,7,569959,594,42.55806,-34.67843
+"1575","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,5,787027,75,33.07492,-25.972612
+"1576","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,41,407972,73,-39.223152,5.661528
+"1577","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,9,401966,179,-57.75367,41.290672
+"1578","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,10,618999,824,42.944008,-32.654648
+"1579","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,9,182000,370,29.59646,-44.88686
+"1580","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,23,18996,543,23.366823,-17.141285
+"1581","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,9,945075,784,42.184944,-32.30396
+"1582","Cerebrovascular","Difficult
+(4th quartile)",FALSE,TRUE,14,563005,1428,37.52103,-52.30648
+"1583","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,12,830962,352,41.76166,-45.818058
+"1584","Cerebrovascular","Difficult
+(4th quartile)",FALSE,FALSE,13,187005,297,30.21262,9.066716
+"1585","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,16,461031,652,57.442818,11.216156
+"1586","Cerebrovascular","Difficult
+(4th quartile)",FALSE,FALSE,4,942031,1622,23.656477,-12.505975
+"1587","Cerebrovascular","Difficult
+(4th quartile)",TRUE,TRUE,5,123982,145,-45.47334,61.535934
+"1588","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,8,635997,54,-41.97238,68.85982
+"1589","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,11,524966,67,-46.59601,62.507065
+"1590","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,7,310044,319,28.008327,-20.140368
+"1591","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,8,462988,97,-46.54936,62.57535
+"1592","Cerebrovascular","Intermediate
+(2nd quartile)",FALSE,TRUE,9,275049,406,25.693562,-8.513524
+"1593","Cerebrovascular","Easy
+(1st quartile)",FALSE,TRUE,10,164981,550,61.51982,0.04729496
+"1594","Cerebrovascular","Difficult
+(4th quartile)",FALSE,TRUE,12,808974,551,37.073082,-28.29624
+"1595","Cerebrovascular","Difficult
+(4th quartile)",FALSE,FALSE,21,654884,742,24.376276,-13.764089
+"1596","Cerebrovascular","Intermediate
+(2nd quartile)",FALSE,FALSE,10,863003,228,37.162735,-16.887415
+"1597","Cerebrovascular","Easy
+(1st quartile)",FALSE,TRUE,38,213998,925,40.750957,-47.111866
+"1598","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,10,961033,417,13.674866,13.154437
+"1599","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,10,0,450,29.232111,-25.173971
+"1600","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,14,135964,409,1.3543388,35.423386
+"1601","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,16,136046,705,61.43515,16.837826
+"1602","Cerebrovascular","Intermediate
+(2nd quartile)",FALSE,TRUE,12,531008,634,43.70279,-13.41608
+"1603","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,10,535991,331,43.23261,-17.557173
+"1604","Cerebrovascular","Difficult
+(4th quartile)",TRUE,FALSE,13,880967,148,-37.273865,28.803783
+"1605","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,9,506034,245,42.378937,-20.161516
+"1606","Cerebrovascular","Difficult
+(4th quartile)",FALSE,TRUE,5,447968,86,-40.202366,24.667345
+"1607","Cerebrovascular","Intermediate
+(2nd quartile)",FALSE,TRUE,12,722997,773,42.091614,-31.004366
+"1608","Cerebrovascular","Difficult
+(4th quartile)",TRUE,TRUE,8,630997,454,42.737457,-15.226695
+"1609","Cerebrovascular","Easy
+(1st quartile)",FALSE,FALSE,6,966040,80,33.12908,-25.795187
+"1610","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,TRUE,6,517000,86,-53.57723,44.293747
+"1611","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,9,155966,449,50.722176,-26.570675
+"1612","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,FALSE,5,552003,368,46.341568,-16.739727
+"1613","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,9,298994,559,28.048414,-20.045113
+"1614","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,8,965039,247,41.11814,-24.355276
+"1615","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,FALSE,7,975964,690,39.999165,-49.60531
+"1616","Cerebrovascular","Intermediate
+(2nd quartile)",FALSE,TRUE,8,623001,216,47.63531,-29.574099
+"1617","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,20,682029,664,35.878307,-46.080105
+"1618","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,3,206969,538,35.15716,-47.53568
+"1619","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,5,602035,243,20.919497,36.862198
+"1620","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,10,534015,974,22.875683,-16.483618
+"1621","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,7,790038,92,-74.76172,48.19081
+"1622","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,6,804948,104,42.10402,-21.458857
+"1623","Cerebrovascular","Easy
+(1st quartile)",TRUE,FALSE,11,937033,621,31.370527,-29.890598
+"1624","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,5,590968,633,40.915592,-24.72729
+"1625","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,4,443001,384,-3.0315971,-17.004658
+"1626","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,8,872046,556,31.872776,-42.813152
+"1627","Cerebrovascular","Difficult
+(4th quartile)",TRUE,FALSE,6,378952,86,-40.206875,24.67361
+"1628","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,8,822033,203,8.232943,-54.043434
+"1629","Cerebrovascular","Easy
+(1st quartile)",FALSE,TRUE,8,6967,478,35.394356,-20.085009
+"1630","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,27,843044,537,25.269278,-12.057261
+"1631","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,13,172972,386,38.357212,-34.38261
+"1632","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,6,669243,54,-39.506832,70.014366
+"1633","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,12,57692,305,40.137657,48.132133
+"1634","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,4,981000,608,45.08348,-19.1848
+"1635","Cerebrovascular","Easy
+(1st quartile)",TRUE,FALSE,12,505995,861,58.321823,13.877982
+"1636","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,9,886818,426,43.786137,-12.409866
+"1637","Cerebrovascular","Difficult
+(4th quartile)",TRUE,TRUE,7,497755,609,38.595486,-33.960537
+"1638","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,FALSE,12,203972,1110,47.362675,-27.015532
+"1639","Cerebrovascular","Advanced
+(3rd quartile)",FALSE,TRUE,15,437990,446,47.872818,-24.515461
+"1640","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,3,731000,82,-41.111877,46.30115
+"1641","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,36,115001,57,-46.90077,30.99941
+"1642","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,5,800028,119,33.67238,-24.352703
+"1643","Cerebrovascular","Easy
+(1st quartile)",FALSE,TRUE,9,836958,115,-47.06327,-58.260925
+"1644","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,17,969,196,-29.890156,26.465195
+"1645","Cerebrovascular","Difficult
+(4th quartile)",FALSE,TRUE,47,196001,783,24.418955,-34.731205
+"1646","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,5,726050,235,37.903843,-23.375156
+"1647","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,8,540949,490,27.432142,1.1671064
+"1648","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,11,356006,573,34.941525,7.738808
+"1649","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,9,308022,616,45.434715,-17.472338
+"1650","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,9,544975,516,-11.159322,-20.345024
+"1651","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,10,505999,510,35.460342,-19.960917
+"1652","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,13,201005,579,21.802816,16.543287
+"1653","Cerebrovascular","Advanced
+(3rd quartile)",TRUE,TRUE,5,976997,695,52.035717,-30.39646
+"1654","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,12,639024,426,39.52143,-21.461868
+"1655","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,TRUE,13,944999,1102,21.40475,-38.699154
+"1656","Cerebrovascular","Difficult
+(4th quartile)",FALSE,TRUE,3,813973,84,-46.244118,64.120964
+"1657","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,9,966002,377,45.050133,-26.140125
+"1658","Cerebrovascular","Intermediate
+(2nd quartile)",TRUE,TRUE,5,212034,248,48.042767,-21.294476
+"1659","Cerebrovascular","Advanced
+(3rd quartile)",FALSE,TRUE,17,815968,119,36.62475,-23.864971
+"1660","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,8,358037,411,27.281174,-45.201694
+"1661","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,10,187966,206,31.530437,6.4033513
+"1662","Cerebrovascular","Easy
+(1st quartile)",TRUE,TRUE,5,565031,90,-63.62835,36.915035
+"1663","Child Neurology","Advanced
+(3rd quartile)",FALSE,FALSE,11,79973,638,-1.784469,18.57135
+"1664","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,10,373995,1010,7.089029,50.260162
+"1665","Child Neurology","Difficult
+(4th quartile)",TRUE,FALSE,5,630021,99,-33.936726,-8.010979
+"1666","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,12,313033,83,-65.3952,49.387512
+"1667","Child Neurology","Difficult
+(4th quartile)",TRUE,TRUE,10,142963,492,6.6469717,29.488337
+"1668","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,36,993031,483,14.57476,58.034275
+"1669","Child Neurology","Advanced
+(3rd quartile)",TRUE,TRUE,12,150966,442,8.281966,37.12026
+"1670","Child Neurology","Intermediate
+(2nd quartile)",TRUE,TRUE,9,409005,411,48.352917,-61.527008
+"1671","Child Neurology","Difficult
+(4th quartile)",TRUE,TRUE,7,200042,74,-27.516586,36.536007
+"1672","Child Neurology","Difficult
+(4th quartile)",FALSE,TRUE,8,404957,216,11.897675,32.761806
+"1673","Child Neurology","Advanced
+(3rd quartile)",FALSE,FALSE,7,866999,521,44.022324,-57.130936
+"1674","Child Neurology","Intermediate
+(2nd quartile)",TRUE,TRUE,4,544999,42,-20.891138,33.481144
+"1675","Child Neurology","Advanced
+(3rd quartile)",TRUE,TRUE,13,738006,874,1.1915712,37.391434
+"1676","Child Neurology","Intermediate
+(2nd quartile)",TRUE,FALSE,9,692996,1098,7.8700423,52.55982
+"1677","Basic Neuroscience","Advanced
+(3rd quartile)",TRUE,FALSE,12,2967,430,63.21645,24.607073
+"1678","Child Neurology","Advanced
+(3rd quartile)",FALSE,TRUE,7,557994,452,16.911232,57.969734
+"1679","Child Neurology","Difficult
+(4th quartile)",FALSE,FALSE,8,365054,59,-23.885439,13.79646
+"1680","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,7,536952,468,8.270295,-8.429977
+"1681","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,7,357995,236,-33.821503,-16.81445
+"1682","Child Neurology","Advanced
+(3rd quartile)",TRUE,TRUE,9,947045,607,12.447447,33.672604
+"1683","Child Neurology","Difficult
+(4th quartile)",FALSE,FALSE,11,733000,252,18.474789,42.271038
+"1684","Child Neurology","Intermediate
+(2nd quartile)",FALSE,TRUE,13,484001,347,41.740536,-16.87182
+"1685","Child Neurology","Difficult
+(4th quartile)",TRUE,FALSE,7,210998,510,5.503937,35.83018
+"1686","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,6,790026,687,-2.801449,20.86358
+"1687","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,7,244031,65,-63.608753,37.22398
+"1688","Child Neurology","Difficult
+(4th quartile)",FALSE,TRUE,8,185193,412,8.252625,-8.415825
+"1689","Child Neurology","Difficult
+(4th quartile)",TRUE,FALSE,6,302732,380,-5.3707685,33.463497
+"1690","Child Neurology","Difficult
+(4th quartile)",TRUE,FALSE,14,875964,921,19.580488,31.166565
+"1691","Child Neurology","Difficult
+(4th quartile)",FALSE,FALSE,12,118114,566,-1.920913,6.7005415
+"1692","Child Neurology","Difficult
+(4th quartile)",FALSE,FALSE,10,73005,258,11.889042,32.971844
+"1693","Child Neurology","Advanced
+(3rd quartile)",TRUE,TRUE,9,18966,381,70.84428,17.790342
+"1694","Child Neurology","Difficult
+(4th quartile)",TRUE,TRUE,10,104002,878,13.980037,22.638649
+"1695","Child Neurology","Easy
+(1st quartile)",FALSE,TRUE,9,664000,64,-46.93004,33.996582
+"1696","Child Neurology","Intermediate
+(2nd quartile)",FALSE,TRUE,10,406037,495,8.942803,24.906721
+"1697","Child Neurology","Intermediate
+(2nd quartile)",TRUE,TRUE,6,976973,259,10.290163,38.488407
+"1698","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,FALSE,15,520972,240,51.190445,-18.8633
+"1699","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,8,73028,533,4.272977,16.382843
+"1700","Child Neurology","Easy
+(1st quartile)",FALSE,TRUE,11,342018,998,14.247616,27.409555
+"1701","Child Neurology","Advanced
+(3rd quartile)",FALSE,FALSE,9,291676,636,-1.7758497,18.575994
+"1702","Child Neurology","Intermediate
+(2nd quartile)",TRUE,TRUE,7,873965,684,-33.86342,-18.803196
+"1703","Child Neurology","Intermediate
+(2nd quartile)",TRUE,TRUE,7,342044,913,15.853873,51.855442
+"1704","Child Neurology","Advanced
+(3rd quartile)",FALSE,TRUE,38,706988,761,-2.9893458,22.5097
+"1705","Child Neurology","Difficult
+(4th quartile)",TRUE,TRUE,12,486015,93,1.9607996,27.032518
+"1706","Child Neurology","Difficult
+(4th quartile)",TRUE,TRUE,10,866950,341,8.933679,31.906786
+"1707","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,17,353004,858,-33.42199,-25.78328
+"1708","Child Neurology","Advanced
+(3rd quartile)",TRUE,TRUE,6,37999,81,-17.88581,46.112022
+"1709","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,9,131033,490,59.21601,40.342987
+"1710","Child Neurology","Difficult
+(4th quartile)",TRUE,TRUE,8,59997,916,4.356923,18.592157
+"1711","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,11,963999,759,13.818012,24.160097
+"1712","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,5,991999,61,-0.29447913,16.051987
+"1713","Child Neurology","Intermediate
+(2nd quartile)",TRUE,TRUE,13,654000,410,31.939043,-21.456814
+"1714","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,8,317058,101,-28.404476,37.27395
+"1715","Child Neurology","Difficult
+(4th quartile)",FALSE,TRUE,7,798991,63,-27.308521,36.30238
+"1716","Child Neurology","Difficult
+(4th quartile)",TRUE,TRUE,7,638953,489,4.828873,37.048016
+"1717","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,7,225001,1100,5.965198,42.413307
+"1718","Child Neurology","Difficult
+(4th quartile)",FALSE,FALSE,12,70998,856,74.577614,16.261587
+"1719","Child Neurology","Intermediate
+(2nd quartile)",TRUE,TRUE,13,156023,532,4.5391474,19.948181
+"1720","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,7,688998,56,-44.075138,42.62474
+"1721","Child Neurology","Difficult
+(4th quartile)",FALSE,TRUE,12,655988,478,6.0273685,28.200306
+"1722","Child Neurology","Advanced
+(3rd quartile)",TRUE,TRUE,11,460157,81,-40.358006,40.638603
+"1723","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,9,713998,71,-38.578175,39.329533
+"1724","Child Neurology","Advanced
+(3rd quartile)",TRUE,TRUE,10,119079,112,-39.711403,36.49098
+"1725","Child Neurology","Advanced
+(3rd quartile)",TRUE,TRUE,6,389006,161,33.42363,-39.518776
+"1726","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,19,175018,891,-33.416367,-25.783436
+"1727","Child Neurology","Intermediate
+(2nd quartile)",FALSE,TRUE,5,136036,104,-34.799633,40.00542
+"1728","Child Neurology","Difficult
+(4th quartile)",TRUE,FALSE,9,702762,710,21.058569,33.568325
+"1729","Child Neurology","Difficult
+(4th quartile)",FALSE,FALSE,6,576001,71,-30.53851,8.031192
+"1730","Child Neurology","Advanced
+(3rd quartile)",TRUE,TRUE,13,802999,543,68.84481,26.285427
+"1731","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,9,405966,56,-44.074764,42.624714
+"1732","Child Neurology","Easy
+(1st quartile)",TRUE,TRUE,7,683034,868,19.97286,31.278082
+"1733","Child Neurology","Intermediate
+(2nd quartile)",TRUE,TRUE,5,729999,411,7.4522953,37.252125
+"1734","Child Neurology","Intermediate
+(2nd quartile)",TRUE,TRUE,17,757971,652,14.035612,28.925417
+"1735","Child Neurology","Intermediate
+(2nd quartile)",FALSE,FALSE,12,623998,316,63.8924,-27.873457
+"1736","Child Neurology","Advanced
+(3rd quartile)",TRUE,TRUE,13,907002,886,14.073331,28.360624
+"1737","Child Neurology","Easy
+(1st quartile)",FALSE,TRUE,6,584045,163,9.824465,55.85209
+"1738","Child Neurology","Difficult
+(4th quartile)",TRUE,TRUE,22,417952,142,36.245728,45.018368
+"1739","Child Neurology","Difficult
+(4th quartile)",FALSE,TRUE,9,591998,70,-37.152836,33.483055
+"1740","Child Neurology","Intermediate
+(2nd quartile)",FALSE,TRUE,11,20005,621,4.3936586,34.882645
+"1741","Child Neurology","Difficult
+(4th quartile)",TRUE,TRUE,42,249996,399,8.044156,33.15635
+"1742","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,11,4344,92,-48.83138,49.858078
+"1743","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,13,714000,309,31.422167,-16.421669
+"1744","Child Neurology","Difficult
+(4th quartile)",FALSE,TRUE,8,866999,93,-8.918463,48.97776
+"1745","Congenital","Advanced
+(3rd quartile)",FALSE,TRUE,6,930005,35,-19.201988,38.742504
+"1746","Congenital","Intermediate
+(2nd quartile)",TRUE,TRUE,6,256031,67,-32.929394,33.47135
+"1747","Congenital","Advanced
+(3rd quartile)",TRUE,FALSE,11,74821,801,2.246792,24.879686
+"1748","Congenital","Intermediate
+(2nd quartile)",TRUE,TRUE,8,276995,316,-0.4579848,35.03792
+"1749","Congenital","Easy
+(1st quartile)",TRUE,TRUE,9,29036,713,3.3112032,26.307316
+"1750","Congenital","Difficult
+(4th quartile)",FALSE,TRUE,3,220972,67,-46.919167,33.980553
+"1751","Congenital","Difficult
+(4th quartile)",TRUE,TRUE,6,34995,53,-38.377113,41.59759
+"1752","Congenital","Advanced
+(3rd quartile)",FALSE,TRUE,11,124004,64,-39.73842,36.554504
+"1753","Congenital","Intermediate
+(2nd quartile)",FALSE,TRUE,12,506001,540,3.1826053,22.996243
+"1754","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,FALSE,20,594923,211,80.170074,21.114902
+"1755","Congenital","Intermediate
+(2nd quartile)",TRUE,FALSE,6,232000,42,-40.173744,42.213066
+"1756","Congenital","Advanced
+(3rd quartile)",TRUE,TRUE,8,666997,115,-64.889275,44.5516
+"1757","Congenital","Intermediate
+(2nd quartile)",TRUE,TRUE,8,869002,684,-34.353073,-18.276886
+"1758","Congenital","Advanced
+(3rd quartile)",TRUE,TRUE,9,276001,664,3.6137323,24.869495
+"1759","Congenital","Advanced
+(3rd quartile)",TRUE,TRUE,11,781004,716,4.737186,26.41728
+"1760","Congenital","Difficult
+(4th quartile)",FALSE,TRUE,6,81995,157,1.438999,32.262405
+"1761","Congenital","Intermediate
+(2nd quartile)",FALSE,TRUE,15,50037,501,3.4484777,34.040466
+"1762","Congenital","Difficult
+(4th quartile)",TRUE,TRUE,8,288993,605,3.2011278,25.477613
+"1763","Congenital","Intermediate
+(2nd quartile)",TRUE,TRUE,5,941141,419,49.98337,-61.595768
+"1764","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,TRUE,9,702002,59,-41.77366,69.06
+"1765","Congenital","Difficult
+(4th quartile)",TRUE,TRUE,12,861000,446,3.6194804,51.97595
+"1766","Congenital","Intermediate
+(2nd quartile)",TRUE,TRUE,12,320042,598,3.9896703,26.67298
+"1767","Cranial Nerves","Easy
+(1st quartile)",TRUE,TRUE,3,985964,68,-52.302624,56.518074
+"1768","Cranial Nerves","Advanced
+(3rd quartile)",FALSE,TRUE,13,533036,801,27.788193,-44.67115
+"1769","Cranial Nerves","Difficult
+(4th quartile)",TRUE,TRUE,7,586996,74,-56.278164,59.334766
+"1770","Cranial Nerves","Difficult
+(4th quartile)",FALSE,TRUE,15,191766,383,-52.685383,60.84226
+"1771","Cranial Nerves","Advanced
+(3rd quartile)",FALSE,FALSE,9,725009,240,51.18881,-18.8637
+"1772","Cranial Nerves","Intermediate
+(2nd quartile)",FALSE,TRUE,15,498992,666,41.44189,-50.18892
+"1773","Cranial Nerves","Difficult
+(4th quartile)",TRUE,TRUE,3,980972,81,-56.17064,54.500847
+"1774","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,24,632997,311,32.154408,17.21569
+"1775","Cranial Nerves","Advanced
+(3rd quartile)",FALSE,TRUE,9,215998,173,34.178535,9.301291
+"1776","Cranial Nerves","Difficult
+(4th quartile)",TRUE,FALSE,8,216995,302,24.334705,6.901509
+"1777","Cranial Nerves","Intermediate
+(2nd quartile)",TRUE,TRUE,16,874998,870,14.260162,-21.716486
+"1778","Cranial Nerves","Advanced
+(3rd quartile)",FALSE,FALSE,9,669045,612,41.859165,6.629967
+"1779","Cranial Nerves","Advanced
+(3rd quartile)",TRUE,TRUE,13,53098,92,-48.13401,50.866703
+"1780","Cranial Nerves","Intermediate
+(2nd quartile)",TRUE,TRUE,13,298025,820,71.07223,-19.347397
+"1781","Cranial Nerves","Intermediate
+(2nd quartile)",TRUE,TRUE,20,429001,1004,66.90261,-31.57225
+"1782","Cranial Nerves","Intermediate
+(2nd quartile)",FALSE,TRUE,14,42999,685,36.73838,7.3991437
+"1783","Cranial Nerves","Advanced
+(3rd quartile)",TRUE,TRUE,10,194002,968,53.925583,-8.189488
+"1784","Cranial Nerves","Difficult
+(4th quartile)",FALSE,FALSE,7,234999,235,65.90824,-6.1438966
+"1785","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,5,776032,311,32.38709,16.736948
+"1786","Cranial Nerves","Easy
+(1st quartile)",TRUE,TRUE,8,234719,171,39.313076,18.200811
+"1787","Cranial Nerves","Advanced
+(3rd quartile)",FALSE,TRUE,13,943760,1050,44.38768,-49.061268
+"1788","Cranial Nerves","Easy
+(1st quartile)",TRUE,TRUE,5,907059,171,39.31324,18.200844
+"1789","Cranial Nerves","Difficult
+(4th quartile)",FALSE,FALSE,37,25075,475,14.02325,-45.88918
+"1790","Cranial Nerves","Advanced
+(3rd quartile)",TRUE,TRUE,6,350543,317,33.807003,8.302976
+"1791","Cranial Nerves","Easy
+(1st quartile)",FALSE,FALSE,18,807248,264,53.43213,-9.139842
+"1792","Cranial Nerves","Intermediate
+(2nd quartile)",FALSE,TRUE,3,972016,74,-54.993637,62.75852
+"1793","Cranial Nerves","Intermediate
+(2nd quartile)",TRUE,TRUE,8,914984,75,-51.432228,64.37878
+"1794","Cranial Nerves","Easy
+(1st quartile)",TRUE,TRUE,7,137432,372,36.079014,-44.235294
+"1795","Cranial Nerves","Advanced
+(3rd quartile)",TRUE,TRUE,10,963032,1115,69.74102,-0.034589417
+"1796","Basic Neuroscience","Easy
+(1st quartile)",FALSE,FALSE,7,685460,100,-13.331488,22.796349
+"1797","Cranial Nerves","Advanced
+(3rd quartile)",FALSE,TRUE,6,468996,82,-53.602936,65.583534
+"1798","Cranial Nerves","Advanced
+(3rd quartile)",FALSE,FALSE,9,353003,417,67.246056,-4.978128
+"1799","Cranial Nerves","Difficult
+(4th quartile)",FALSE,FALSE,38,266997,293,26.376755,8.495402
+"1800","Cranial Nerves","Intermediate
+(2nd quartile)",FALSE,TRUE,12,435971,951,70.85955,-20.469595
+"1801","Cranial Nerves","Difficult
+(4th quartile)",FALSE,FALSE,5,909002,105,-50.677307,51.982384
+"1802","Cranial Nerves","Intermediate
+(2nd quartile)",TRUE,TRUE,17,320027,1030,36.288776,6.666536
+"1803","Cranial Nerves","Intermediate
+(2nd quartile)",TRUE,TRUE,15,586967,883,32.651577,10.161644
+"1804","Cranial Nerves","Advanced
+(3rd quartile)",TRUE,TRUE,5,770006,107,-53.540436,56.841335
+"1805","Cranial Nerves","Intermediate
+(2nd quartile)",FALSE,TRUE,8,177963,654,41.449554,5.9383593
+"1806","Cranial Nerves","Difficult
+(4th quartile)",FALSE,FALSE,10,240004,836,38.63,3.3106933
+"1807","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,TRUE,4,835003,59,-40.85951,71.390175
+"1808","Cranial Nerves","Difficult
+(4th quartile)",TRUE,TRUE,4,31995,107,-54.198017,58.17738
+"1809","Cranial Nerves","Difficult
+(4th quartile)",TRUE,TRUE,12,87038,658,60.081177,-24.333406
+"1810","Cranial Nerves","Easy
+(1st quartile)",FALSE,TRUE,5,632016,1243,71.593765,-18.817299
+"1811","Cranial Nerves","Easy
+(1st quartile)",TRUE,TRUE,3,877950,92,-48.832066,49.856182
+"1812","Cranial Nerves","Advanced
+(3rd quartile)",FALSE,TRUE,11,8997,203,32.779728,7.614029
+"1813","Cranial Nerves","Intermediate
+(2nd quartile)",TRUE,TRUE,7,43999,64,-52.61665,59.51021
+"1814","Cranial Nerves","Easy
+(1st quartile)",TRUE,FALSE,11,649070,170,57.00564,-15.643804
+"1815","Cranial Nerves","Difficult
+(4th quartile)",FALSE,FALSE,30,673974,241,-48.00345,55.14507
+"1816","Cranial Nerves","Advanced
+(3rd quartile)",TRUE,TRUE,9,10954,200,56.004955,-18.763521
+"1817","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,7,662022,490,59.21489,40.343025
+"1818","Critical Care","Easy
+(1st quartile)",FALSE,TRUE,10,711635,379,47.829273,15.062733
+"1819","Critical Care","Intermediate
+(2nd quartile)",TRUE,TRUE,9,417008,488,19.944391,-23.597763
+"1820","Critical Care","Easy
+(1st quartile)",TRUE,TRUE,19,811425,537,19.010706,-39.845833
+"1821","Critical Care","Intermediate
+(2nd quartile)",FALSE,TRUE,16,669822,456,21.392582,-34.75122
+"1822","Critical Care","Difficult
+(4th quartile)",FALSE,TRUE,8,200003,609,14.27422,-44.25503
+"1823","Critical Care","Intermediate
+(2nd quartile)",TRUE,TRUE,6,307001,506,9.938661,-22.521273
+"1824","Critical Care","Intermediate
+(2nd quartile)",FALSE,TRUE,10,454562,290,27.455206,-43.581223
+"1825","Critical Care","Difficult
+(4th quartile)",FALSE,FALSE,6,804968,327,23.133549,-31.124035
+"1826","Critical Care","Easy
+(1st quartile)",TRUE,TRUE,14,68033,772,32.301537,-47.587963
+"1827","Basic Neuroscience","Advanced
+(3rd quartile)",FALSE,FALSE,10,646163,670,-11.899777,-13.249409
+"1828","Critical Care","Intermediate
+(2nd quartile)",TRUE,TRUE,15,692967,334,31.632166,-43.59136
+"1829","Critical Care","Intermediate
+(2nd quartile)",TRUE,TRUE,11,755001,492,-0.8088745,-42.403572
+"1830","Critical Care","Intermediate
+(2nd quartile)",TRUE,TRUE,10,631031,747,2.6404862,-46.86678
+"1831","Critical Care","Difficult
+(4th quartile)",TRUE,TRUE,8,263000,359,-4.161129,-32.283985
+"1832","Critical Care","Intermediate
+(2nd quartile)",TRUE,TRUE,4,612000,589,26.161938,-42.18347
+"1833","Critical Care","Difficult
+(4th quartile)",FALSE,TRUE,16,121972,581,4.7087264,-20.203304
+"1834","Critical Care","Difficult
+(4th quartile)",FALSE,TRUE,6,481996,507,20.695305,-42.019287
+"1835","Critical Care","Advanced
+(3rd quartile)",FALSE,TRUE,7,85998,415,18.235977,-41.017868
+"1836","Critical Care","Advanced
+(3rd quartile)",TRUE,TRUE,9,770587,203,8.100469,-54.013554
+"1837","Critical Care","Easy
+(1st quartile)",FALSE,TRUE,13,902184,372,26.518059,-41.511395
+"1838","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,14,19962,54,-57.09769,39.581005
+"1839","Critical Care","Easy
+(1st quartile)",TRUE,TRUE,10,140689,841,5.526325,-27.178488
+"1840","Critical Care","Advanced
+(3rd quartile)",TRUE,TRUE,7,397035,256,25.28663,-39.074
+"1841","Critical Care","Difficult
+(4th quartile)",FALSE,FALSE,5,778620,533,24.358932,-38.08629
+"1842","Critical Care","Difficult
+(4th quartile)",FALSE,TRUE,10,714425,542,30.69522,-42.039642
+"1843","Critical Care","Difficult
+(4th quartile)",FALSE,TRUE,13,362343,392,19.809544,-42.941135
+"1844","Critical Care","Advanced
+(3rd quartile)",TRUE,TRUE,5,649011,469,19.59785,-42.51725
+"1845","Critical Care","Difficult
+(4th quartile)",FALSE,TRUE,8,190200,201,6.261587,-46.831554
+"1846","Critical Care","Intermediate
+(2nd quartile)",TRUE,FALSE,10,197349,571,38.94883,-35.662212
+"1847","Critical Care","Intermediate
+(2nd quartile)",TRUE,TRUE,11,904762,488,19.944414,-23.59819
+"1848","Demyelinating Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,5,435307,82,10.381867,-14.116109
+"1849","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,38,661502,377,16.28085,-33.94081
+"1850","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,7,224996,64,-52.616245,59.51015
+"1851","Demyelinating Disorders","Difficult
+(4th quartile)",FALSE,TRUE,4,463553,184,-38.67644,-28.12974
+"1852","Demyelinating Disorders","Difficult
+(4th quartile)",FALSE,FALSE,18,155985,556,44.845654,-0.29436383
+"1853","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,5,903677,481,0.027131796,-11.69524
+"1854","Demyelinating Disorders","Difficult
+(4th quartile)",FALSE,FALSE,4,876204,102,-19.070131,27.57553
+"1855","Demyelinating Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,9,293926,493,46.298294,4.731719
+"1856","Demyelinating Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,21,680237,106,-22.603804,25.983015
+"1857","Demyelinating Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,9,737896,453,-28.025616,-60.43589
+"1858","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,10,328359,272,-28.26355,-56.28597
+"1859","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,7,739387,410,-29.11681,-60.781532
+"1860","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,4,620282,591,47.303177,-0.44018072
+"1861","Basic Neuroscience","Intermediate
+(2nd quartile)",TRUE,TRUE,11,59967,74,-54.993374,62.7586
+"1862","Demyelinating Disorders","Intermediate
+(2nd quartile)",FALSE,FALSE,8,370144,145,43.223785,-2.1445446
+"1863","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,12,225191,720,43.253662,5.9290514
+"1864","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,8,41909,424,43.734104,6.321131
+"1865","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,10,430805,606,-0.5049459,1.1265645
+"1866","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,10,372750,747,-0.5251994,0.99637425
+"1867","Demyelinating Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,12,192026,531,2.7517014,-0.02237594
+"1868","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,6,647004,463,45.455975,2.4771814
+"1869","Demyelinating Disorders","Intermediate
+(2nd quartile)",FALSE,TRUE,24,352935,1302,45.971775,-2.9018257
+"1870","Demyelinating Disorders","Intermediate
+(2nd quartile)",FALSE,TRUE,5,186787,821,45.55071,0.5314453
+"1871","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,4,779654,394,42.54596,3.937048
+"1872","Basic Neuroscience","Easy
+(1st quartile)",FALSE,FALSE,12,156000,170,57.00514,-15.64344
+"1873","Demyelinating Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,8,561552,282,48.487396,9.8177
+"1874","Demyelinating Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,5,891045,378,-27.960787,-60.446503
+"1875","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,9,177221,44,-24.230013,26.141333
+"1876","Demyelinating Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,8,636146,135,-16.211,-7.5352197
+"1877","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,5,165807,564,39.791756,7.174195
+"1878","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,7,671717,647,12.762515,-11.443204
+"1879","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,7,699825,745,43.938713,4.8921146
+"1880","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,12,135644,1049,-25.705072,-59.428185
+"1881","Demyelinating Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,7,404453,424,44.736404,7.5789275
+"1882","Demyelinating Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,9,305993,89,10.187144,-13.610562
+"1883","Basic Neuroscience","Intermediate
+(2nd quartile)",FALSE,TRUE,4,980052,40,-37.17376,66.08379
+"1884","Demyelinating Disorders","Advanced
+(3rd quartile)",FALSE,TRUE,13,630640,866,-25.64227,-57.624084
+"1885","Demyelinating Disorders","Difficult
+(4th quartile)",FALSE,TRUE,7,68925,591,42.330265,1.6822735
+"1886","Demyelinating Disorders","Intermediate
+(2nd quartile)",FALSE,TRUE,6,109965,91,-32.16098,33.420845
+"1887","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,12,847353,1523,45.60486,-2.6358202
+"1888","Demyelinating Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,8,58698,639,46.372723,4.662801
+"1889","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,6,343830,654,12.487074,-11.881142
+"1890","Demyelinating Disorders","Difficult
+(4th quartile)",TRUE,TRUE,8,636830,58,10.487788,-15.009383
+"1891","Demyelinating Disorders","Advanced
+(3rd quartile)",TRUE,TRUE,8,82173,674,-25.242434,-59.46768
+"1892","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,9,698902,821,50.709873,16.490294
+"1893","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,9,886714,900,12.104267,-12.538161
+"1894","Basic Neuroscience","Intermediate
+(2nd quartile)",FALSE,TRUE,6,119949,40,-37.174683,66.08374
+"1895","Demyelinating Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,6,558985,518,-21.57369,23.397476
+"1896","Demyelinating Disorders","Advanced
+(3rd quartile)",FALSE,FALSE,9,805313,376,45.379375,1.0901873
+"1897","Demyelinating Disorders","Intermediate
+(2nd quartile)",FALSE,TRUE,9,453925,406,56.118565,22.573038
+"1898","Demyelinating Disorders","Easy
+(1st quartile)",FALSE,TRUE,12,597136,482,44.88871,3.7336128
+"1899","Demyelinating Disorders","Intermediate
+(2nd quartile)",TRUE,TRUE,5,512400,62,-19.449575,27.85222
+"1900","Demyelinating Disorders","Difficult
+(4th quartile)",TRUE,TRUE,6,411771,309,3.5238826,-0.109365486
+"1901","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,10,413137,393,43.949604,6.2215548
+"1902","Demyelinating Disorders","Easy
+(1st quartile)",TRUE,TRUE,7,522258,84,-24.333656,27.28687
+"1903","Epilepsy, Seizures","Advanced
+(3rd quartile)",TRUE,TRUE,10,372492,957,13.459827,47.154476
+"1904","Basic Neuroscience","Easy
+(1st quartile)",FALSE,TRUE,11,952055,591,31.10246,-17.530075
+"1905","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,13,361565,574,21.239145,44.948196
+"1906","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,15,567825,359,11.351127,44.83311
+"1907","Epilepsy, Seizures","Intermediate
+(2nd quartile)",FALSE,FALSE,7,953632,514,8.0480995,10.326594
+"1908","Epilepsy, Seizures","Advanced
+(3rd quartile)",FALSE,FALSE,9,903147,692,19.112764,-53.715004
+"1909","Epilepsy, Seizures","Advanced
+(3rd quartile)",TRUE,TRUE,5,799586,100,-9.129616,52.56207
+"1910","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,5,437923,445,2.34604,51.295826
+"1911","Epilepsy, Seizures","Intermediate
+(2nd quartile)",TRUE,TRUE,15,220013,796,11.305963,48.523197
+"1912","Epilepsy, Seizures","Difficult
+(4th quartile)",FALSE,TRUE,4,972702,733,18.44453,48.90208
+"1913","Epilepsy, Seizures","Advanced
+(3rd quartile)",TRUE,TRUE,8,339193,120,-40.431965,7.9887114
+"1914","Epilepsy, Seizures","Advanced
+(3rd quartile)",TRUE,TRUE,7,824174,1465,9.077575,41.732117
+"1915","Basic Neuroscience","Difficult
+(4th quartile)",TRUE,TRUE,8,511943,81,-56.17459,54.501846
+"1916","Epilepsy, Seizures","Difficult
+(4th quartile)",FALSE,FALSE,8,389539,401,10.131184,61.967968
+"1917","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,9,349969,820,32.274147,33.911743
+"1918","Epilepsy, Seizures","Advanced
+(3rd quartile)",TRUE,TRUE,7,610673,67,-53.234375,34.954853
+"1919","Epilepsy, Seizures","Difficult
+(4th quartile)",FALSE,FALSE,43,773183,512,11.263983,43.87465
+"1920","Epilepsy, Seizures","Intermediate
+(2nd quartile)",TRUE,TRUE,7,548697,913,15.747114,51.939827
+"1921","Epilepsy, Seizures","Intermediate
+(2nd quartile)",TRUE,TRUE,12,997560,574,7.752085,54.811394
+"1922","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,7,904437,564,8.161877,43.148518
+"1923","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,6,517056,48,-20.193693,37.545876
+"1924","Epilepsy, Seizures","Intermediate
+(2nd quartile)",FALSE,FALSE,16,153544,1098,7.871212,52.559566
+"1925","Basic Neuroscience","Difficult
+(4th quartile)",FALSE,TRUE,16,206972,628,22.944818,-1.8471518
+"1926","Epilepsy, Seizures","Easy
+(1st quartile)",FALSE,TRUE,5,667186,721,15.554802,-25.910574
+"1927","Epilepsy, Seizures","Advanced
+(3rd quartile)",FALSE,FALSE,8,611542,1149,6.583195,49.748295
+"1928","Epilepsy, Seizures","Advanced
+(3rd quartile)",TRUE,TRUE,5,645900,1098,12.167086,47.941372
+"1929","Epilepsy, Seizures","Advanced
+(3rd quartile)",TRUE,TRUE,7,291607,815,35.735645,-35.251305
+"1930","Epilepsy, Seizures","Easy
+(1st quartile)",FALSE,FALSE,6,252314,381,10.889772,41.200768
+"1931","Epilepsy, Seizures","Advanced
+(3rd quartile)",FALSE,FALSE,5,470209,87,-6.810232,51.97793
+"1932","Epilepsy, Seizures","Advanced
+(3rd quartile)",TRUE,TRUE,5,362347,351,11.433237,58.035854
+"1933","Epilepsy, Seizures","Advanced
+(3rd quartile)",TRUE,FALSE,6,677491,48,-74.321,-13.377361
+"1934","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,9,76675,767,6.276721,54.33226
+"1935","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,26,47004,989,7.627984,41.79667
+"1936","Epilepsy, Seizures","Advanced
+(3rd quartile)",FALSE,FALSE,7,483644,801,8.22712,51.249702
+"1937","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,6,848753,1046,8.402628,56.178814
+"1938","Epilepsy, Seizures","Intermediate
+(2nd quartile)",FALSE,TRUE,8,696731,1305,10.442246,51.12035
+"1939","Epilepsy, Seizures","Intermediate
+(2nd quartile)",TRUE,TRUE,15,109754,356,13.907216,45.931507
+"1940","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,5,329231,56,-61.64997,29.20579
+"1941","Epilepsy, Seizures","Difficult
+(4th quartile)",FALSE,TRUE,3,661615,592,9.492398,48.771626
+"1942","Epilepsy, Seizures","Advanced
+(3rd quartile)",FALSE,TRUE,4,960917,40,-4.157082,47.979263
+"1943","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,8,555187,272,3.3941028,54.282654
+"1944","Epilepsy, Seizures","Advanced
+(3rd quartile)",TRUE,TRUE,10,628576,561,14.825288,43.574806
+"1945","Epilepsy, Seizures","Intermediate
+(2nd quartile)",FALSE,TRUE,8,862493,790,10.8136835,52.025703
+"1946","Basic Neuroscience","Easy
+(1st quartile)",TRUE,TRUE,9,356028,908,21.548283,-38.24534
+"1947","Epilepsy, Seizures","Intermediate
+(2nd quartile)",TRUE,TRUE,5,83518,143,11.268674,53.1337
+"1948","Epilepsy, Seizures","Difficult
+(4th quartile)",TRUE,FALSE,39,263486,1127,10.807874,48.99056
+"1949","Epilepsy, Seizures","Advanced
+(3rd quartile)",FALSE,TRUE,14,853670,313,33.938847,-34.91058
+"1950","Epilepsy, Seizures","Easy
+(1st quartile)",TRUE,TRUE,14,912707,684,20.233412,-53.184647
+"1951","Epilepsy, Seizures","Difficult
+(4th quartile)",FALSE,FALSE,5,999744,987,10.351696,50.005817
+"1952","Epilepsy, Seizures","Difficult
+(4th quartile)",TRUE,TRUE,9,999870,106,-77.2691,-5.4389257
+"1953","Epilepsy, Seizures","Difficult
+(4th quartile)",TRUE,TRUE,11,357476,259,14.989158,45.025
+"1954","Epilepsy, Seizures","Intermediate
+(2nd quartile)",FALSE,TRUE,4,491755,592,13.499426,51.85947
+"1955","Epilepsy, Seizures","Advanced
+(3rd quartile)",TRUE,TRUE,17,23049,290,21.450148,50.15864
+"1956","Epilepsy, Seizures","Intermediate
+(2nd quartile)",TRUE,TRUE,10,9264,891,4.557182,42.621994
